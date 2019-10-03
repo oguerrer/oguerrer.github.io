@@ -6,6 +6,11 @@ title: Publications
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
 
 # Dissemination Material
+* Agent Computing in Economics: A Rough Path Towards Policy Applications
+ <p><small> Agent computing is a simulation tool that has been successfully adopted in many fields where policy interventions are critical. Economics, however, has failed in doing so. Today, there are new opportunities for bringing agent computing into economic policy. In this post, I discuss why this technology has not been adopted for economic policy and point out new opportunities to do it.</small></p>
+
+* At Last! Agent Computing for Economics Policy
+* Los Modelos Computacionales, las Políticas Públicas y la Movilidad Social (in Spanish)
 
 # Reseach Programs
 
