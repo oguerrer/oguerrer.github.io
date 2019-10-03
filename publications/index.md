@@ -14,12 +14,12 @@ Below is just about everything you'll need to style in the theme. Check the sour
 
 # Reseach Programs
 
-## Policy Priority Inference
+### Policy Priority Inference
 * How Do Governments Determine Policy Priorities? Studying Development Strategies through Spillover Networks
 
-## Vote Trading Networks
+### Vote Trading Networks
 
-## Labor Flow Networks
+### Labor Flow Networks
 
 
 
