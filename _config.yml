@@ -4,7 +4,8 @@ title: Omar A. Guerrero
 locale: en_GB
 description: Economist & Computational Social Scientist<br/>The Alan Turing Institute & UCL Department of Economics
 logo: network.png
-page.image.path: panel.jpeg
+image:
+  feature: panel.jpeg
 url: https://oguerrer.github.io
 
 # Jekyll configuration
