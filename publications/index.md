@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Publications
-image:
-  feature: panel2.jpeg
 ---
 
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
