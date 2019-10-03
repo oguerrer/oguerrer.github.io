@@ -5,19 +5,17 @@ title: Publications
 
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
 
-# Heading 1
+# Dissemination Material
 
-## Heading 2
+# Reseach Programs
 
-### Heading 3
+## Policy Priority Inference
 
-#### Heading 4
+## Vote Trading Networks
 
-##### Heading 5
+## Labor Flow Networks
 
-###### Heading 6
 
-### Body text
 
 Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
 
