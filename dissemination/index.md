@@ -24,11 +24,14 @@ title: Dissemination
   <br/><small>Agent computing is a simulation tool that has been successfully adopted in many fields where policy interventions are critical. Economics, however, has failed in doing so. Today, there are new opportunities for bringing agent computing into economic policy. In this post, I discuss why this technology has not been adopted for economic policy and point out new opportunities to do it.</small>
 </p>
 
+
 <p>SAGE Ocean Blog (2018): <a target="_blank" rel="noopener noreferrer" href="https://ocean.sagepub.com/blog/2018/8/29/at-last-agent-computing-for-economics-policy">At Last! Agent Computing for Economics Policy</a>
   <br/><small>Today, there is a new window of opportunity to adopt agent computing as a mainstream analytic tool in economics. Here, I discuss four major aspects in which this technology can improve economic policymaking: causality and detail, scalability and response, unobservability and counterfactuals, and separating design from implementation. In addition, I highlight the crucial role that policy agencies and research funders have in this endeavor by supporting a new generation of computationally-enabled social scientists.</small>
 </p>
 
 
+<p>CEEY Blog (2018): <a target="_blank" rel="noopener noreferrer" href="https://ceey.org.mx/los-modelos-computacionales-las-politicas-publicas-y-la-movilidad-social/?utm_source=twitter&utm_medium=socialmedia&utm_campaign=politicaspublicas&utm_content=blogpost">Las políticas públicas, y en particular la política económica, trastocan fenómenos complejos como la movilidad social y la desigualdad, los cuales van más allá de los intereses típicos de la mayoría de los economistas. Conscientes de ello, uno supondría que, tras estar casi dos décadas adentrados en el siglo XXI, los diseñadores y hacedores de la política económica informan sus decisiones a través de sofisticados modelos computacionales que simulan las interacciones, las decisiones de consumo y producción, la movilidad geográfica, etc., de hogares y empresas. Dicho supuesto no es algo descabellado, pues en muchos países diversas decisiones de política pública fuera del ámbito económico se apoyan en este tipo de herramienta.</small>
+</p>
 
 
 
