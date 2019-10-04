@@ -5,7 +5,7 @@ title: Dissemination
 
 ## Blog Posts
 
-<p><a href="https://ocean.sagepub.com/blog/2018/8/29/agent-computing-in-economics-a-rough-path-towards-policy-applications">Agent Computing in Economics: A Rough Path Towards Policy Applications</a>
+<p><a target="_blank" rel="noopener noreferrer" href="https://ocean.sagepub.com/blog/2018/8/29/agent-computing-in-economics-a-rough-path-towards-policy-applications">Agent Computing in Economics: A Rough Path Towards Policy Applications</a>
   <br/><small>Agent computing is a simulation tool that has been successfully adopted in many fields where policy interventions are critical. Economics, however, has failed in doing so. Today, there are new opportunities for bringing agent computing into economic policy. In this post, I discuss why this technology has not been adopted for economic policy and point out new opportunities to do it.</small>
 </p>
 
