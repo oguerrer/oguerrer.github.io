@@ -9,6 +9,17 @@ title: Dissemination
   <br/><small>Development indicators are typically used to –ex-post– evaluate outcomes. However, governments could take greater advantage of them, for example, to –ex-ante– understand how some policy priorities are more or less effective in reaching specific development goals.</small>
 </p>
 
+
+<p>GIFT Blog (2019): <a target="_blank" rel="noopener noreferrer" href="https://t.co/NDjmsMci8M?amp=1">Coupling AI and Sustainable Development Goals through Public Expenditure Data: Why Fiscal Transparency is Crucial to Achieve the 2030 Agenda</a>
+  <br/><small>The 2030 Agenda has encouraged the construction of numerous development indicators through which governments can track and evaluate their progress towards the SDGs. Indicators, however, are only one side of the development equation: they constitute the output. However, realistic strategies to reach specific goals of a government cannot be properly designed without information about the input side: public expenditure.</small>
+</p>
+
+
+<p>GIFT Blog (2019): <a target="_blank" rel="noopener noreferrer" href="https://t.co/m5xDIDmoU0?amp=1">Combinando la Inteligencia Artificial y los Objetivos de Desarrollo Sostenible a través de los datos del gasto público: ¿Por qué la transparencia presupuestaria es crucial para lograr la Agenda 2030?</a>
+  <br/><small>La Agenda 2030 ha fomentado la construcción de numerosos indicadores de desarrollo a través de los cuales los gobiernos pueden evaluar y darle seguimiento al progreso hacia los ODS. Sin embargo, los indicadores representan solo un lado de la ecuación del desarrollo: el del producto. El otro lado, el del insumo, se constituye por el gasto público. Sin éste, las estrategias realistas para alcanzar los objetivos específicos de un gobierno no pueden diseñarse adecuadamente.</small>
+</p>
+
+
 <p>SAGE Ocean Blog (2018): <a target="_blank" rel="noopener noreferrer" href="https://ocean.sagepub.com/blog/2018/8/29/agent-computing-in-economics-a-rough-path-towards-policy-applications">Agent Computing in Economics: A Rough Path Towards Policy Applications</a>
   <br/><small>Agent computing is a simulation tool that has been successfully adopted in many fields where policy interventions are critical. Economics, however, has failed in doing so. Today, there are new opportunities for bringing agent computing into economic policy. In this post, I discuss why this technology has not been adopted for economic policy and point out new opportunities to do it.</small>
 </p>
