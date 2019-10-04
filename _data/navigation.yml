@@ -2,8 +2,11 @@
 # Site navigation links
 
 
-- title: Publications
-  url: /publications/
+- title: Research
+  url: /research/
+
+- title: Dissemination
+  url: /dissemination/
 
 - title: LaborSim
   url: /laborsim/
