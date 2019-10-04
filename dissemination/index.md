@@ -5,6 +5,11 @@ title: Dissemination
 
 ## Blog Posts
 
+<p>Agent Computing in Economics: A Rough Path Towards Policy Applications
+  <br/><small>Agent computing is a simulation tool that has been successfully adopted in many fields where policy interventions are critical. Economics, however, has failed in doing so. Today, there are new opportunities for bringing agent computing into economic policy. In this post, I discuss why this technology has not been adopted for economic policy and point out new opportunities to do it.</small>
+</p>
+
+
 
 
 ## Presentations
