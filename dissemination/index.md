@@ -9,6 +9,11 @@ title: Dissemination
   <br/><small>Agent computing is a simulation tool that has been successfully adopted in many fields where policy interventions are critical. Economics, however, has failed in doing so. Today, there are new opportunities for bringing agent computing into economic policy. In this post, I discuss why this technology has not been adopted for economic policy and point out new opportunities to do it.</small>
 </p>
 
+<p><a target="_blank" rel="noopener noreferrer" href="https://ocean.sagepub.com/blog/2018/8/29/at-last-agent-computing-for-economics-policy">At Last! Agent Computing for Economics Policy</a>
+  <br/><small>Today, there is a new window of opportunity to adopt agent computing as a mainstream analytic tool in economics. Here, I discuss four major aspects in which this technology can improve economic policymaking: causality and detail, scalability and response, unobservability and counterfactuals, and separating design from implementation. In addition, I highlight the crucial role that policy agencies and research funders have in this endeavor by supporting a new generation of computationally-enabled social scientists.</small>
+</p>
+
+
 
 
 
