@@ -26,8 +26,7 @@ title: Dissemination
 
 
 <p>Innovations in using budget analysis to inform decision making for SDGs<br/>Global Initiative for Fiscal Transparency, 2019</p>
-<iframe width="560" height="315" src="https://youtu.be/z8YmYZ-Scxw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z8YmYZ-Scxw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p>How Can Data Science Help Us Create Better Public Policy?<br/>CogX, 2019</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RZYHbabJFbg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
