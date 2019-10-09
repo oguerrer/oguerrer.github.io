@@ -1,3 +1,3 @@
 
 
-<script src="https://oguerrer.github.io/app.js">TEST</script>
+<script src="https://oguerrer.github.io/app.js"></script>
