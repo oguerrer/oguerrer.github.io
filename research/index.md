@@ -9,7 +9,7 @@ title: Research
   
 * <a target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.2139/ssrn.3385362 ">Estimating Networks of Sustainable Development Goals.</a>
 
-* <a target="_blank" rel="noopener noreferrer" href="ttps://arxiv.org/pdf/1902.00429">The Importance of Social and Government Learning in Ex Ante Policy Evaluation.</a>
+* <a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/pdf/1902.00429">The Importance of Social and Government Learning in Ex Ante Policy Evaluation.</a>
 
 * <a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/abs/1902.00428">Does Better Governance Guarantee Less Corruption? Evidence of Loss in Effectiveness of the Rule of Law.</a>
 
