@@ -1,17 +1,1 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <title>Example</title>
-        <meta name="description" content="This is just an example">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="css/main.css">
-    </head>
-    <body data-modules="foobar, lorem/ipsum">
-        <div id="wrapper">
-            Just an example
-        </div>
-          <script data-main="js/main.js" src="js/lib/require/require.js"></script>
-    </body>
-</html>
-
+<script src="https://oguerrer.github.io/oguerrer.github.io/laborsim/app.js"></script>
