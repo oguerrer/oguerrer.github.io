@@ -11,7 +11,7 @@
         <div id="wrapper">
             Just an example
         </div>
-          <script src="https://oguerrer.github.io/laborsim/app.js"></script>
+          <script data-main="js/main.js" src="js/lib/require/require.js"></script>
     </body>
 </html>
 
