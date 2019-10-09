@@ -3,8 +3,6 @@ layout: page
 title: Dissemination
 ---
 
-## Blog Posts
-
 <p>UCL Public Policy Blog (2019): <a target="_blank" rel="noopener noreferrer" href="https://medium.com/policy-postings/reaching-the-sustainable-development-goals-through-computational-social-sciences-3d334313b46c">Reaching the Sustainable Development Goals through Computational Social Sciences</a>
   <br/><small>Development indicators are typically used to –ex-post– evaluate outcomes. However, governments could take greater advantage of them, for example, to –ex-ante– understand how some policy priorities are more or less effective in reaching specific development goals.</small>
 </p>
@@ -33,37 +31,6 @@ title: Dissemination
 <p>CEEY Blog (2018): <a target="_blank" rel="noopener noreferrer" href="https://ceey.org.mx/los-modelos-computacionales-las-politicas-publicas-y-la-movilidad-social/?utm_source=twitter&utm_medium=socialmedia&utm_campaign=politicaspublicas&utm_content=blogpost">Los modelos computacionales, las políticas públicas y la movilidad social</a>
   <br/><small>Las políticas públicas, y en particular la política económica, trastocan fenómenos complejos como la movilidad social y la desigualdad, los cuales van más allá de los intereses típicos de la mayoría de los economistas. Conscientes de ello, uno supondría que, tras estar casi dos décadas adentrados en el siglo XXI, los diseñadores y hacedores de la política económica informan sus decisiones a través de sofisticados modelos computacionales que simulan las interacciones, las decisiones de consumo y producción, la movilidad geográfica, etc., de hogares y empresas. Dicho supuesto no es algo descabellado, pues en muchos países diversas decisiones de política pública fuera del ámbito económico se apoyan en este tipo de herramienta.</small>
 </p>
-
-
-
-## Presentations
-
-
-
-<p>Innovations in using budget analysis to inform decision making for SDGs<br/>Global Initiative for Fiscal Transparency, 2019</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z8YmYZ-Scxw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<p>How Can Data Science Help Us Create Better Public Policy?<br/>CogX, 2019</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RZYHbabJFbg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-<p>Policy Priority Inference for Sustainable Development<br/>The Alan Turing Institute, 2019</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OVE_mjp3Fxs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-<p>Datos Masivos, Cómputo, y la Ciencia Económica en el Contexto de las Políticas de Desarrollo<br/>El Colegio de México & INEGI, 2019</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nl8C5MzMmvE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-<p>Retos de Competencia en el Entorno Digital<br/>Instituto Federal de Telecomunicaciones, 2018</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W8J-WwqdG9E?start=18256" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-<p>The Network Composition of Aggregate Unemployment<br/>Saïd Business School, University of Oxford, 2016</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tYuiBsRU1HA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
 
 
 
