@@ -21,6 +21,11 @@ LaborSim is about the dynamics of labor markets. In real economies, workers beco
 LaborSim is a computational simulation of individual workers and firms interacting in the economy. Workers can lose their jobs and regain employment by searching for vacancies. The search on vacancies takes place on a network where each node represents a firm. The network captures the structure of the market, so job search is restricted by its topology. In other words, a worker can only search for jobs among those firms that are linked to their last employer. Therefore, workers at well-connected firms have better employment prospects. This theory has strong empirical support and it is a stylized way to learn about the role of specific firms in labor dynamics.
 
 
+## What is different?
+
+In contrast with conventional frameworks, laborSim models each worker and each firm individually and takes into account the complex structure that constrains their interactions. This approach provides a lot of flexibility on the types of questions that one can address. For example, we can test how a specific group of firms affects the unemployment rate if these firms would close down (closing not only generates unemployment but also modifies the network structure). We can also test how unemployment reacts to policies that targeted to specific firms. This type of questions is untreatable with conventional models. Hence, laborSim offers a new technology to inform discussions about labor policy.
+
+
 ## Ingredients
 
 The basic ingredients of laborSim are workers, firms, and a <em>frictionless network</em>. The current version is based on the simplest specification of local job search, which consists of three parameters:
