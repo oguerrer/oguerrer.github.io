@@ -4,8 +4,7 @@ LaborSim is an agent-computing model that simulates the individual dynamics of f
 <p align="center">
   
 <a href="https://oguerrer.github.io/laborsimapp/">
-<img src="/images/play-button.png" width="100" height="auto"><br>
-Run LaborSim
+<img src="/images/play-button.png" width="100" height="auto">
 </a>
 </p>
 
