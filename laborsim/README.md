@@ -21,8 +21,14 @@ LaborSim is about the dynamics of labor markets. In real economies, workers beco
 LaborSim is a computational simulation of individual workers and firms interacting in the economy. Workers can lose their jobs and regain employment by searching for vacancies. The search on vacancies takes place on a network where each node represents a firm. The network captures the structure of the market, so job search is restricted by its topology. In other words, a worker can only search for jobs among those firms that are linked to their last employer. Therefore, workers at well-connected firms have better employment prospects. This theory has strong empirical support and it is a stylized way to learn about the role of specific firms in labor dynamics.
 
 
-## How is it different?
+## Ingredients
 
-In contrast with conventional frameworks, laborSim models each worker and each firm individually and takes into account the complex structure that constrains their interactions. This approach provides a lot of flexibility on the types of questions that one can address. For example, we can test how a specific group of firms affects the unemployment rate if these firms would close down (closing not only generates unemployment but also modifies the network structure). We can also test how unemployment reacts to policies that targeted to specific firms. This type of questions is untreatable with conventional models. Hence, laborSim offers a new technology to inform discussions about labor policy.
+The basic ingredients of laborSim are workers, firms, and a <em>frictionless network</em>. The current version is based on the simplest specification of local job search, which consists of three parameters:
+<ul>
+ 	<li>Technological innovation <em>τ</em>: When a firm innovates new labor becomes obsolete. This means that, during innovation periods, firms do not take job applications (we say that they are closed). Otherwise, they are open to receive applications. <em>τ</em> is the probability that a firm is closed in a given period and it is the same for every firm.</li>
+ 	<li>Hiring policy <em>h</em>: When an open firm receives job applications, it hires a fraction of the applicants. This fraction can also be interpreted as the probability that a job application succeeds in a given period. <em>h</em> represents this probability and it is specific to each firm.</li>
+ 	<li>Separation rate <em>λ</em>: Every period, an employed worker can become unemployed with a probability <em>λ</em>. This is commonly known as the separation rate and it is firm-specific.</li>
+</ul>
+
 
 
