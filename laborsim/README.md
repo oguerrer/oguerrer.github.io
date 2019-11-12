@@ -31,4 +31,28 @@ The basic ingredients of laborSim are workers, firms, and a <em>frictionless net
 </ul>
 
 
+## Algorithm
+
+The algorithm iterates through time. Each time step can be summarized in the following sequence:
+
+1.- Each firm innovates with probability <em>τ.</em>
+
+2.- Each unemployed searches among the open neighbors of her last employer, picks one at random (with the same probability), and submits an application.
+
+3.- Each employed worker becomes unemployed with the probability <em>λ </em>that is specific to her firm.
+
+4.- Each firm hires a fraction  from all the applications received.
+
+Needless to say, a job seeker remains unemployed if there are no open neighbors or if her job application fails. In this version, seekers can only apply to one firm per period, and firms do not discriminate between workers. However, this and other behaviors can be easily changed if you want to implement our model yourself.
+
+
+## Network panel
+
+<img class="alignright wp-image-254" src="/images/netPanel-294x300.jpg" alt="netPanel" width="300" height="300" />The left panel of the app shows the layout of a <em>frictionless network</em>. Each node represents a firm and the colors are assigned at random by default. The size of a node is proportional to the number of workers that it employs. The colored ring around the node represents the number of workers who left that firm and remain unemployed. At the bottom of this panel there are four buttons. The <i class="fa fa-play"></i> button runs and pauses the model. The <i class="fa fa-tachometer"></i> button controls how fast the model iterates each step. It means that 100% is full speed. The <i class="fa fa-share-alt fa-rotate-90"></i> icon rearranges the network layout. This would be normally used in case several nodes start overlapping due to changes in their sizes. Finally, the <i class="fa fa-magic"></i> button adds 10 new firms and connect them randomly to other firms. Each new firm comes with a randomly assigned number of workers (employed and unemployed). You can click on any firm to select it (hold Shift to select multiple firms). The search bar at the top right corner of the panel allows to select all firms that meet a criteria. We will explain more about this capability once we have introduced the rest of the features.
+
+
+
+
+
+
 
