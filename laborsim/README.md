@@ -2,7 +2,7 @@
 LaborSim is an agent-computing model that simulates the individual dynamics of firms and workers in the labor market. The purpose of this application is to provide a pedagogical tool to anyone interested in labor dynamics and policy experiments. LaborSim was developed in JavaScript and only requires an updated browser to run in your computer or mobile device.
 
 
-![](https://github.com/oguerrer/oguerrer.github.io/tree/master/images/play-button.png)
+<img src="https://github.com/oguerrer/oguerrer.github.io/tree/master/images/play-button.png" width="400" height="790">
 
 
 ## What is it about?
