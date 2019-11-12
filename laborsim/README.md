@@ -2,6 +2,9 @@
 LaborSim is an agent-computing model that simulates the individual dynamics of firms and workers in the labor market. The purpose of this application is to provide a pedagogical tool to anyone interested in labor dynamics and policy experiments. LaborSim was developed in JavaScript and only requires an updated browser to run in your computer or mobile device.
 
 
+![Run LaboSim!](images/play-button.png?raw=true "Title")
+
+
 ## What is it about?
 
 LaborSim is about the dynamics of labor markets. In real economies, workers become unemployed and find new jobs, traversing parts of the vast economy throughout their careers. This process is quite complex considering the diversity of job types, skills of people, geographical constrains, technological innovations, etc. However, the labor market works in incredible ways by enhancing the reallocation of massive amounts of labor and human capital. Nevertheless, such reallocation is not smooth, giving rise to the phenomenon unemployment. LaborSim simulates these processes taking into account the rich structure of the labor market.
