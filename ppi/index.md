@@ -14,7 +14,9 @@ How can governments prioritize investing in certain issues in order to reach a s
 What policy issues can act as accelerators towards these goals?
 How can we evaluate the feasibility of of such goals?
 
-These and other related questions are intrinsically connected to the complexity of policy prioritization.
+These and other related questions are at the center of public debate in international forums and development agendas.
+They are all intrinsically connected to the complexity of policy prioritization.
+PPI 
 
 
 
