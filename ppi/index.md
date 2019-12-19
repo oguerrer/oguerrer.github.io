@@ -45,7 +45,7 @@ Thus, PPI can exploit publicly accessible development-indicator data to provide 
 <br>
 ## How can I use it?
 
-These are some of the topics in which PPI can support decision-making:
+These are some ways in which PPI can support its users:
 
 - *Allocating transformative resources*: It can be used to inform governments on how to better allocate transformative resources across numerous interdependent policy issues with the aim of reaching a set of goals that have been established in the natinoal or sub-national development plans. *Transformative* refers to those resources destined to generate changes in development indicators beyond those already set in motion by commited expenditure (like maintaining highways and hospitals).
 
@@ -67,7 +67,17 @@ These are some of the topics in which PPI can support decision-making:
 
 
 <br>
-## What data does it need?
+## What data do I need?
+
+Just like any other empirical methodology, PPI benefits from bigger and better data.
+Computationally speaking, it scales well, so it can handle more indicators as governments and NGOs continue to create them.
+Thechnically speaking, PPI can simulate indicator dynamics by just providing it with initial and final values, and with two parameters that capture institutional factors of public governance (which can be obtain from datasets such as the World Bank's Worldwide Governance Indicators).
+However, it is highly advisable to also provide the time series of the indicators (so that PPI can match their empirical variance) and a network of interdependencies between the indicators (which can be obtained via qualitative or quantitative methods).
+Other types of data that can significantly improve the quality of the inferences are SDG-fiscal linked data and information on fiscal rigidities.
+As more and better data becomes available in the future, PPI will be able to incorporate it due to its high flexibility to be adapted to new research questions and highly specific contexts.
+
+<br>
+<img class="aligncenter wp-image-254" src="/images/ppi/pyramic.jpg" alt="netPanel" align="center" width="70%">
 
 
 <br>
