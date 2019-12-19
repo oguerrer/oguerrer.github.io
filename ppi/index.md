@@ -21,6 +21,7 @@ These and other related questions live at the center of public debate in interna
 They are intrinsically connected to the complexity of policy prioritization, and they their answers require new analytic tools.
 
 <br>
+
 ## Development as a complex process
 
 PPI combines knowledge from Complexity Economics, Computational Social Science, Behavioral Sciences, and Policy Sciences in a computational framework.
@@ -39,10 +40,12 @@ In this case, PPI's theoretical variables (those at the micro-level that are uno
 Thus, PPI can exploit publicly accessible development-indicator data to provide several useful inferences about how governments can achieve the SDGs.
 
 <br>
+
 <img class="aligncenter wp-image-254" src="/images/ppi/diagram_2.jpg" align="center" width="70%">
 
 
 <br>
+
 ## How can I use it?
 
 These are some ways in which PPI can support its users:
@@ -67,6 +70,7 @@ These are some ways in which PPI can support its users:
 
 
 <br>
+
 ## What data do I need?
 
 Just like any other empirical methodology, PPI benefits from bigger and better data.
@@ -75,20 +79,25 @@ Thechnically speaking, PPI can simulate indicator dynamics by just providing it 
 However, it is highly advisable to also provide the time series of the indicators (so that PPI can match their empirical variance) and a network of interdependencies between the indicators (which can be obtained via qualitative or quantitative methods).
 Other types of data that can significantly improve the quality of the inferences are SDG-fiscal linked data and information on fiscal rigidities.
 As more and better data becomes available in the future, PPI will be able to incorporate it due to its high flexibility to be adapted to new research questions and highly specific contexts.
+The diagram below illustrates the data that, at this stage of development, PPI can exploit.
 
 <br>
+
 <img class="aligncenter wp-image-254" src="/images/ppi/pyramid.jpg" align="center" width="70%">
 
 
 <br>
+
 ## Users
 
 
 <br>
+
 ## Resources
 
 
 <br>
+
 ## Support
 
 
