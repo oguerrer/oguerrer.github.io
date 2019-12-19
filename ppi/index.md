@@ -83,7 +83,7 @@ The diagram below illustrates the data that, at this stage of development, PPI c
 
 <br>
 
-<img class="aligncenter wp-image-254" src="/images/ppi/pyramid.jpg" align="center" width="70%">
+<img class="aligncenter wp-image-254" src="/images/ppi/pyramid.jpg" align="center" width="60%">
 
 
 <br>
