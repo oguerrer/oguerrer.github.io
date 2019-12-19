@@ -113,14 +113,14 @@ These are some users that could benefit from adopting PPI:
 
 ## Resources
 
-### Papers
+#### Papers
 The reference document containing all the technical details and an application is the paper entitled <a href="oguerr.com/video" target="_blank" rel="noopener">*Policy Priority Inference: A Computational Method for the Analysis of Socioeconomic Development*</a> by Omar A. Guerrero and Gonzalo Castañeda.
 All other publications related to earlier versions and of PPI and their applications can be found in the <a href="oguerr.com/research" target="_blank" rel="noopener">*RESEARCH*</a> section of this website.
 
-### Presentations
+#### Presentations
 The <a href="oguerr.com/video" target="_blank" rel="noopener">*VIDEO*</a> section of this site contains different videos of presentations that I have given on PPI.
 
-### Data & code
+#### Data & code
 The PPI GitHub repository provides all the code used in the reference paper, as well as all the necessary data to reproduce its findings.
 It also contains a series of Jypyter Notebooks with short tutorials about data processing, running simulations, calibrating the model, and performing simple analyses.
 
