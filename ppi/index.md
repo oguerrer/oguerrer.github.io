@@ -20,7 +20,7 @@ How can society evaluate the feasibility of such goals?
 These and other related questions live at the center of public debate in international forums and development agendas.
 They are intrinsically connected to the complexity of policy prioritization, and they their answers require new analytic tools.
 
-
+<br>
 ## Development as a complex process
 
 PPI combines knowledge from Complexity Economics, Computational Social Science, Behavioral Sciences, and Policy Sciences in a computational framework.
@@ -40,8 +40,9 @@ Thus, PPI can exploit publicly accessible development-indicator data to provide 
 
 <br>
 <center><img src="/images/ppi/diagram_2.jpg" alt="netPanel" align="center" width="70%"></center>
-<br>
 
+
+<br>
 ## How can I use it?
 
 These are some of the topics in which PPI can support decision-making:
@@ -65,15 +66,19 @@ These are some of the topics in which PPI can support decision-making:
 - *Estimating the impact of changing the budget size*: PPI can help understanding how an increase or decrease in the availability of transformative resources may accelerate or slow down convergence to the established goals. This is a concern, for example, among countries where an aging population if forcing governments to shirnk the amount of available transformative resources in order to fulfill other non-transformative commitments such such as paying pensions.
 
 
+<br>
 ## What data does it need?
 
 
+<br>
 ## Users
 
 
+<br>
 ## Resources
 
 
+<br>
 ## Support
 
 
