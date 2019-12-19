@@ -19,19 +19,17 @@ These and other related questions live at the center of public debate in interna
 They are intrinsically connected to the complexity of policy prioritization, and they their answers require new analytic tools.
 
 
-## How does it work?
+## Development as a complex process
 
 PPI combines knowledge from Complexity Economics, Computational Social Science, Behavioral Sciences and Policy Sciences in a computational framework.
 It views the economy as a complex adaptive system where micro-level policy interventions give place to macro-level outcomes.
 These outomes, int turn, feed back to policymakers who adapt their interventions with the aim of achieving certain development goals.
-As such bottom-up process
 
+In the real world, macro-level outcomes are typically measured through development indicators.
+However, data on the micro-level policymaking process tend to be scarse, at least in a similar scale and systematic nature as those of development indicators.
+In view of such limitations, PPI simulates the macro-level dynamics of development indicators through a computational model of the policymaking process and the political economy that shapes the choices of rationally-bounded agents.
+More specifically, PPI models a central authority that allocates transformative resources with the aim of improving indicators and reaching a set of goals.
 
-development indicators are aggregate data that describe macro-level variables, while public policies are micro-level policy interventions.
-
-
-
-It provides a theoretical account of how public expenditure drives development indicators, and a tool to perform policy experiments regarding the reallocation of resources, setting development goals, propoting synergistic interlinkages, etc.
 
 
 ## How can I use it?
