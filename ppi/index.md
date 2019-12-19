@@ -41,6 +41,27 @@ Thus, PPI can exploit publicly accessible development-indicator data to provide 
 
 ## How can I use it?
 
+These are some of the topics in which PPI can support decision-making:
+
+- *Allocating transformative resources*: It can be used to inform governments on how to better allocate transformative resources across numerous interdependent policy issues with the aim of reaching a set of goals that have been established in the natinoal or sub-national development plans. *Transformative* refers to those resources destined to generate changes in development indicators beyond those already set in motion by commited expenditure (like maintaining highways and hospitals).
+
+- *Evaluating feasibility*: Given the indicators' historical trends, PPI can be employed to estimate how long it would take to reach a set of goals. Therefore, it is possible to assess whether such goals are feasible or not.
+
+- *Estimating inefficiencies*: PPI can provide estimates on the level of efficiency within each policy issue; that is, how much the relevant indicator improves with each unit of additional investment in transformative resources.
+
+- *Setting development goals*: Since it is possible to evaluate the goal feasibility, PPI can be used to explore a vast space of goals in order to choose those that better a government's constraints (for example, term duration, budget, inefficiencies, etc.).
+
+- *Measuring policy coherence*: IPP can generate counterfactials of policy priorities; that is, simulated allocations that are conducive to a set of goals, and that may defer from a governments' factual priorities. These simulations are the basis for a quantitative index that is informative of how coherent are a government's priorities with respect to the goals that it has set and/or promotes through public discourse.
+
+- *Discovering accelerators*: The tool's flexibility facilitates conducting experiments where one can reallocate resources in order to find those policy issues that cathalyze development not only in their own indicator, but across many others.
+    
+- *Identifying bottlenecks*: The counterpart of an accelerator is a bottleneck. PPI can be employed to find those policy issues where a lack of transformative resources, negative linterlinkages, or high inefficiencies delay convergence towards the established goals.
+    
+- *Accounting for fiscal rigidity*: Often, legislation restricts the fluidity of resources across policy issues. PPI can take this into account to improve the above inferences, or to evaluate when these rigidities are beneficial and when they are detrimental.
+
+- *Estimating the impact of changing the budget size*: PPI can help understanding how an increase or decrease in the availability of transformative resources may accelerate or slow down convergence to the established goals. This is a concern, for example, among countries where an aging population if forcing governments to shirnk the amount of available transformative resources in order to fulfill other non-transformative commitments such such as paying pensions.
+
+
 
 ## What data does it need?
 
