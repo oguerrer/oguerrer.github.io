@@ -7,8 +7,14 @@ PPI is a computational framework created to understand the complexity of policy 
 
 
 ## Context: the Sustainable Development Goals (SDGs)
-The 2030 Agenda Declaration of United Nations highlights the importance of understanding development as a process with numerous dimensions that interact with each other: "*The interlinkages and integrated nature of the SDGs are of crucial importance in ensuring that the purpose of the new Agenda is realized*". Traditionally, governments, NGOs and multilateral organizations have quantified progress in such numerous dimensions through development indicators. However, how can we make sense of hundreds of indicators when they are interdependent? Moreover, how can policymakers establish policy priorities when such interdependencies produce spillover effects and encourage the inefficient use of resources?
+The 2030 Agenda Declaration of the United Nations highlights the importance of understanding development as a process where numerous policy dimensions that interact with each other: "*The interlinkages and integrated nature of the SDGs are of crucial importance in ensuring that the purpose of the new Agenda is realized*".
+Governments, NGOs and multilateral organizations quantify the progress in these many policy issues through development indicators.
+However, how can we make sense of hundreds of indicators when they are interlinked? What effect does public expenditure have in the dynamics of these indicators?
+How can governments prioritize investing in certain issues in order to reach a set of goals?
+What policy issues can act as accelerators towards these goals?
+How can we evaluate the feasibility of of such goals?
 
+These and other related questions are intrinsically connected to the complexity of policy prioritization.
 
 
 
