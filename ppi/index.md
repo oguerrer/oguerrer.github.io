@@ -39,7 +39,7 @@ In this case, PPI's theoretical variables (those at the micro-level that are uno
 Thus, PPI can exploit publicly accessible development-indicator data to provide several useful inferences about how governments can achieve the SDGs.
 
 <br>
-<center><img src="/images/ppi/diagram_2.jpg" alt="netPanel" align="center" width="70%"></center>
+<img class="aligncenter wp-image-254" src="/images/ppi/diagram_2.jpg" alt="netPanel" align="center" width="70%">
 
 
 <br>
