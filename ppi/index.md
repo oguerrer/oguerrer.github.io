@@ -41,7 +41,7 @@ Thus, PPI can exploit publicly accessible development-indicator data to provide 
 
 <br>
 
-<img class="aligncenter wp-image-254" src="/images/ppi/diagram_2.jpg" align="center" width="70%">
+<center><img class="aligncenter wp-image-254" src="/images/ppi/diagram_2.jpg" align="center" width="70%"></center>
 
 
 <br>
@@ -83,7 +83,7 @@ The diagram below illustrates the data that, at this stage of development, PPI c
 
 <br>
 
-<img class="aligncenter wp-image-254" src="/images/ppi/pyramid.jpg" align="center" width="60%">
+<center><img class="aligncenter wp-image-254" src="/images/ppi/pyramid.jpg" align="center" width="60%"></center>
 
 
 <br>
