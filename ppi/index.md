@@ -38,6 +38,7 @@ With this, PPI can be calibrated to generate synthetic development indicators wi
 In this case, PPI's theoretical variables (those at the micro-level that are unobservable in the real wordl) are informative about the how governments reach gevelopment goals.
 Thus, PPI can exploit publicly accessible development-indicator data to provide several useful inferences about how governments can achieve the SDGs.
 
+<img src="images/diagram_2.jpg" alt="hi" class="inline"/>
 
 ## How can I use it?
 
@@ -60,7 +61,6 @@ These are some of the topics in which PPI can support decision-making:
 - *Accounting for fiscal rigidity*: Often, legislation restricts the fluidity of resources across policy issues. PPI can take this into account to improve the above inferences, or to evaluate when these rigidities are beneficial and when they are detrimental.
 
 - *Estimating the impact of changing the budget size*: PPI can help understanding how an increase or decrease in the availability of transformative resources may accelerate or slow down convergence to the established goals. This is a concern, for example, among countries where an aging population if forcing governments to shirnk the amount of available transformative resources in order to fulfill other non-transformative commitments such such as paying pensions.
-
 
 
 ## What data does it need?
