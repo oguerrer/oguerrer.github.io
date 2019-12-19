@@ -46,7 +46,7 @@ Thus, PPI can exploit publicly accessible development-indicator data to provide 
 
 <br>
 
-## How can I use it?
+## What is it useful for?
 
 These are some ways in which PPI can support its users:
 
@@ -90,10 +90,36 @@ The diagram below illustrates the data that, at this stage of development, PPI c
 
 ## Users
 
+These are some users that could benefit from adopting PPI:
+
+- *Governments*: Public agencies in charge of designing budgets and of preparing development plans. These can be at either  the national or subnational level.
+
+- *Sector analysts*: PPI can also be use to analyze policy prioritization at the level of specific sectors if there are relevant indicators (telecommunications, public health, education, etc.).
+
+- *Multilateral organizations*: International agencies who provide policy advice to governments and who publish reports evaluating countries' progress togards the goals of international agendas such as the SDGs.
+
+- *Aid donors*: Organizations who condition international aid on prioritizing specific policy issues can use PPI to evaluate how coherent have been the recipients' policy priorities.
+
+- *Non-governmental organizations*: The civil society can employ PPI to evaluate various aspects of the government's development strategy.
+
+- *Researchers*: Scientists and academics can perform simulation experiments and make inferences that cannot be done without the synthetic micro-level data that PPI generates.
+
+- *Political parties*: Politicians could benefit from better understanding the complexity of achiving the development goals that their campaigns promise.
+
+- *Consultants*: Consultants can adopt PPI to generate policy reports and bespoke evaluations on development-related issues.
+
 
 <br>
 
 ## Resources
+
+### Papers
+
+### Presentations
+
+### Dissemination material
+
+### Data & code
 
 
 <br>
