@@ -38,7 +38,7 @@ With this, PPI can be calibrated to generate synthetic development indicators wi
 In this case, PPI's theoretical variables (those at the micro-level that are unobservable in the real wordl) are informative about the how governments reach gevelopment goals.
 Thus, PPI can exploit publicly accessible development-indicator data to provide several useful inferences about how governments can achieve the SDGs.
 
-<img src="/images/ppi/diagram_2.jpg" alt="netPanel" align="center">
+<img src="/images/ppi/diagram_2.jpg" alt="netPanel" align="center" width="50%">
 
 ## How can I use it?
 
