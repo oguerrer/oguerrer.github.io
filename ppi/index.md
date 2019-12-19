@@ -39,7 +39,7 @@ In this case, PPI's theoretical variables (those at the micro-level that are uno
 Thus, PPI can exploit publicly accessible development-indicator data to provide several useful inferences about how governments can achieve the SDGs.
 
 <br>
-<img class="aligncenter wp-image-254" src="/images/ppi/diagram_2.jpg" alt="netPanel" align="center" width="70%">
+<img class="aligncenter wp-image-254" src="/images/ppi/diagram_2.jpg" align="center" width="70%">
 
 
 <br>
@@ -77,7 +77,7 @@ Other types of data that can significantly improve the quality of the inferences
 As more and better data becomes available in the future, PPI will be able to incorporate it due to its high flexibility to be adapted to new research questions and highly specific contexts.
 
 <br>
-<img class="aligncenter wp-image-254" src="/images/ppi/pyramic.jpg" alt="netPanel" align="center" width="70%">
+<img class="aligncenter wp-image-254" src="/images/ppi/pyramid.jpg" align="center" width="70%">
 
 
 <br>
