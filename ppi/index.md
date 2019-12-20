@@ -26,17 +26,17 @@ They are intrinsically connected to the complexity of policy prioritization, and
 
 PPI combines knowledge from Complexity Economics, Computational Social Science, Behavioral Sciences, and Policy Sciences in a computational framework.
 It views the economy as a complex adaptive system where micro-level policy interventions give place to macro-level outcomes.
-These outomes, in turn, feed back into policymakers who adapt their interventions with the aim of achieving certain development goals.
+These outcomes, in turn, feed back into policymakers who adapt their interventions with the aim of achieving certain development goals.
 These micro-macro-micro causal mechanisms are difficult to analyze with traditional statistical tools, specially if not comprehensive multi-level data exists. 
 
 In the real world, macro-level outcomes are typically measured through development indicators.
-However, data on the micro-level policymaking process tend to be scarse, at least in a similar scale and systematic nature as those of development indicators.
+However, data on the micro-level policymaking process tend to be scarce, at least in a similar scale and systematic nature as those of development indicators.
 In view of such limitations, PPI simulates the macro-level dynamics of development indicators through a computational model of the policymaking process and of the political economy that shapes the choices of rationally-bounded policymakers.
 More specifically, PPI simulates a *central authority* that allocates transformative resources with the aim of improving indicators and reaching a set of goals.
 In the simulation, these resources are transformed into policy outcomes by *policy agents*, each one representing the public official or government agencies in charge of improving the relevant development indicators.
 The macro-level dynamics of the simulated indicators depend on (1) the amount of resources allocated by the central authority, (2) the policy agents' efficiency, and (3) the interlinkages with other policy issues (for example, because industrial growth may hinder environmental progress).
 With this, PPI can be calibrated to generate synthetic development indicators with properties that match those observed in real-world data.
-In this case, PPI's theoretical variables (those at the micro-level that are unobservable in the real wordl) are informative about the how governments reach gevelopment goals.
+In this case, PPI's theoretical variables (those at the micro-level that are unobservable in the real world) are informative about the how governments reach development goals.
 Thus, PPI can exploit publicly accessible development-indicator data to provide several useful inferences about how governments can achieve the SDGs.
 
 <br>
@@ -50,7 +50,7 @@ Thus, PPI can exploit publicly accessible development-indicator data to provide 
 
 These are some ways in which PPI can support its users:
 
-- *Allocating transformative resources*: It can be used to inform governments on how to better allocate transformative resources across numerous interdependent policy issues with the aim of reaching a set of goals that have been established in the natinoal or sub-national development plans. *Transformative* refers to those resources destined to generate changes in development indicators beyond those already set in motion by commited expenditure (like maintaining highways and hospitals).
+- *Allocating transformative resources*: It can be used to inform governments on how to better allocate transformative resources across numerous interdependent policy issues with the aim of reaching a set of goals that have been established in the national or sub-national development plans. *Transformative* refers to those resources destined to generate changes in development indicators beyond those already set in motion by committed expenditure (like maintaining highways and hospitals).
 
 - *Evaluating feasibility*: Given the indicators' historical trends, PPI can be employed to estimate how long it would take to reach a set of goals. Therefore, it is possible to assess whether such goals are feasible or not.
 
@@ -58,15 +58,15 @@ These are some ways in which PPI can support its users:
 
 - *Setting development goals*: Since it is possible to evaluate the goal feasibility, PPI can be used to explore a vast space of goals in order to choose those that better a government's constraints (for example, term duration, budget, inefficiencies, etc.).
 
-- *Measuring policy coherence*: IPP can generate counterfactials of policy priorities; that is, simulated allocations that are conducive to a set of goals, and that may defer from a governments' factual priorities. These simulations are the basis for a quantitative index that is informative of how coherent are a government's priorities with respect to the goals that it has set and/or promotes through public discourse.
+- *Measuring policy coherence*: IPP can generate counterfactuals of policy priorities; that is, simulated allocations that are conducive to a set of goals, and that may defer from a governments' factual priorities. These simulations are the basis for a quantitative index that is informative of how coherent are a government's priorities with respect to the goals that it has set and/or promotes through public discourse.
 
-- *Discovering accelerators*: The tool's flexibility facilitates conducting experiments where one can reallocate resources in order to find those policy issues that cathalyze development not only in their own indicator, but across many others.
+- *Discovering accelerators*: The tool's flexibility facilitates conducting experiments where one can reallocate resources in order to find those policy issues that catalyze development not only in their own indicator, but across many others.
     
-- *Identifying bottlenecks*: The counterpart of an accelerator is a bottleneck. PPI can be employed to find those policy issues where a lack of transformative resources, negative linterlinkages, or high inefficiencies delay convergence towards the established goals.
+- *Identifying bottlenecks*: The counterpart of an accelerator is a bottleneck. PPI can be employed to find those policy issues where a lack of transformative resources, negative interlinkages, or high inefficiencies delay convergence towards the established goals.
     
 - *Accounting for fiscal rigidity*: Often, legislation restricts the fluidity of resources across policy issues. PPI can take this into account to improve the above inferences, or to evaluate when these rigidities are beneficial and when they are detrimental.
 
-- *Estimating the impact of changing the budget size*: PPI can help understanding how an increase or decrease in the availability of transformative resources may accelerate or slow down convergence to the established goals. This is a concern, for example, among countries where an aging population if forcing governments to shirnk the amount of available transformative resources in order to fulfill other non-transformative commitments such such as paying pensions.
+- *Estimating the impact of changing the budget size*: PPI can help understanding how an increase or decrease in the availability of transformative resources may accelerate or slow down convergence to the established goals. This is a concern, for example, among countries where an aging population if forcing governments to shrink the amount of available transformative resources in order to fulfill other non-transformative commitments such such as paying pensions.
 
 
 <br>
@@ -75,7 +75,7 @@ These are some ways in which PPI can support its users:
 
 Just like any other empirical methodology, PPI benefits from bigger and better data.
 Computationally speaking, it scales well, so it can handle more indicators as governments and NGOs continue to create them.
-Thechnically speaking, PPI can simulate indicator dynamics by just providing it with initial and final values, and with two parameters that capture institutional factors of public governance (which can be obtain from datasets such as the World Bank's Worldwide Governance Indicators).
+Technically speaking, PPI can simulate indicator dynamics by just providing it with initial and final values, and with two parameters that capture institutional factors of public governance (which can be obtain from datasets such as the World Bank's Worldwide Governance Indicators).
 However, it is highly advisable to also provide the time series of the indicators (so that PPI can match their empirical variance) and a network of interdependencies between the indicators (which can be obtained via qualitative or quantitative methods).
 Other types of data that can significantly improve the quality of the inferences are SDG-fiscal linked data and information on fiscal rigidities.
 As more and better data becomes available in the future, PPI will be able to incorporate it due to its high flexibility to be adapted to new research questions and highly specific contexts.
@@ -96,7 +96,7 @@ These are some users that could benefit from adopting PPI:
 
 - *Sector analysts*: PPI can also be use to analyze policy prioritization at the level of specific sectors if there are relevant indicators (telecommunications, public health, education, etc.).
 
-- *Multilateral organizations*: International agencies who provide policy advice to governments and who publish reports evaluating countries' progress togards the goals of international agendas such as the SDGs.
+- *Multilateral organizations*: International agencies who provide policy advice to governments and who publish reports evaluating countries' progress towards the goals of international agendas such as the SDGs.
 
 - *Aid donors*: Organizations who condition international aid on prioritizing specific policy issues can use PPI to evaluate how coherent have been the recipients' policy priorities.
 
@@ -104,7 +104,7 @@ These are some users that could benefit from adopting PPI:
 
 - *Researchers*: Scientists and academics can perform simulation experiments and make inferences that cannot be done without the synthetic micro-level data that PPI generates.
 
-- *Political parties*: Politicians could benefit from better understanding the complexity of achiving the development goals that their campaigns promise.
+- *Political parties*: Politicians could benefit from better understanding the complexity of achieving the development goals that their campaigns promise.
 
 - *Consultants*: Consultants can adopt PPI to generate policy reports and bespoke evaluations on development-related issues.
 
