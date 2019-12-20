@@ -138,7 +138,7 @@ We are also grateful to the various policymakers and researchers that participat
 <br>
 
 ## More information
-Should you have any further inquiries regarding the tool, consultancy services, training, or about anything else, please contact me directly at <a href="mailto:oguerrero@turing.ac.uk" target="_blank" rel="noopener">oguerrero@turing.ac.uk</a>.
+Should you have any further inquiries regarding PPI, or about consulting and training services, please do not hesitate in contacting me at <a href="mailto:oguerrero@turing.ac.uk" target="_blank" rel="noopener">oguerrero@turing.ac.uk</a>.
 
 
 
