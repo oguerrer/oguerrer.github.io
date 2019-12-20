@@ -119,6 +119,10 @@ All other publications related to earlier versions and of PPI and their applicat
 
 #### Presentations
 The <a href="http://oguerr.com/video" target="_blank" rel="noopener">*VIDEO*</a> section of this site contains different videos of presentations that I have given on PPI.
+Here is one of those presentations.
+
+<p>Policy Priority Inference for Sustainable Development<br/>The Alan Turing Institute, 2019</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OVE_mjp3Fxs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Data & code
 The PPI GitHub repository provides all the code used in the reference paper, as well as all the necessary data to reproduce its findings.
@@ -128,8 +132,8 @@ It also contains a series of Jypyter Notebooks with short tutorials about data p
 
 ## Acknowledgments
 Throughout the development of PPI, various funders have seen the potential and usefulness of the framework and offered their financial support, for which we are grateful.
-In particular, we would like to thank The Alan Turing Institute, the United Nations Development Programme, and the Economic and Social Research Council.
-We are also grateful to the various academics and policymakers that have participated in the numerous workshops and seminars where this tool has been introduced; their feedback has been key to the improvement of PPI.
+We would like to thank The Alan Turing Institute for supporting the early versions of PPI and providing the necessary computational resources, the United Nations Development Programme for financing the adaptation of PPI to the SDGs, and the Economic and Social Research Council for its current sponsorship in integrating open fiscal data into PPI.
+We are also grateful to the various policymakers and researchers that participated in the numerous workshops and seminars where this tool has been presented; their feedback has been invaluable for the improvement of PPI.
 
 <br>
 
