@@ -91,8 +91,6 @@ Other types of data that can significantly improve the quality of the inferences
 Due to its high flexibility, PPI will be able to incorporate bigger and better data as it become available in the future.
 The diagram below illustrates the data that, at this stage of development, PPI can exploit.
 
-<br>
-
 <center><img class="aligncenter wp-image-254" src="/images/ppi/pyramid.jpg" align="center" width="60%"></center>
 
 
