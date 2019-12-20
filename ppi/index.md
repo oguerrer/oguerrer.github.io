@@ -129,7 +129,9 @@ All other publications related to earlier versions and of PPI and their applicat
 The <a href="http://oguerr.com/video" target="_blank" rel="noopener">*VIDEO*</a> section of this site contains different videos of presentations that I have given on PPI.
 You can find one of them below.
 
+<center>
 <iframe width="70%" src="https://www.youtube.com/embed/OVE_mjp3Fxs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 
 #### Data & code
 The PPI GitHub repository provides all the code used in the reference paper, as well as all the necessary data to reproduce its findings.
