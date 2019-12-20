@@ -130,7 +130,7 @@ The <a href="http://oguerr.com/video" target="_blank" rel="noopener">*VIDEO*</a>
 You can find one of them below.
 
 <center>
-<iframe width="70%" src="https://www.youtube.com/embed/OVE_mjp3Fxs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="360" height="115" src="https://www.youtube.com/embed/OVE_mjp3Fxs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 #### Data & code
@@ -147,9 +147,10 @@ We are also grateful to the various policymakers and researchers that participat
 
 <br>
 
-<center> <img class="aligncenter wp-image-254" src="/images/ppi/ati.jpg" align="center" width="15%" hspace="50">
+<center> 
+  <img class="aligncenter wp-image-254" src="/images/ppi/ati.jpg" align="center" width="15%" hspace="50">
   <img class="aligncenter wp-image-254" src="/images/ppi/undp.jpg" align="center" width="5%" hspace="50">
-  <img class="aligncenter wp-image-254" src="/images/ppi/esrc.jpg" align="center" width="15%" hspace="50">
+  <img class="aligncenter wp-image-254" src="/images/ppi/esrc.jpg" align="center" width="10%" hspace="50">
 </center>
 
 
