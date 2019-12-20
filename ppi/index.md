@@ -3,7 +3,7 @@ layout: page
 title: Policy Priority Inference (PPI)
 ---
 
-PPI is a computational framework created to understand the complexity of policy prioritization and to support decision-making when reallocating transformative resources with the aim of reaching specific development goals.
+PPI is a computational framework created to understand the complexity of policy prioritization and to support governments who wish to distribute public expenditure across numerous policy issues, with the aim of reaching specific development goals.
 
 
 ## The Sustainable Development Goals (SDGs)
