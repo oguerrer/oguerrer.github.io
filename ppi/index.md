@@ -129,7 +129,6 @@ All other publications related to earlier versions and of PPI and their applicat
 The <a href="http://oguerr.com/video" target="_blank" rel="noopener">*VIDEO*</a> section of this site contains different videos of presentations that I have given on PPI.
 You can find one of them below.
 
-<p>Policy Priority Inference for Sustainable Development<br/>The Alan Turing Institute, 2019</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OVE_mjp3Fxs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Data & code
