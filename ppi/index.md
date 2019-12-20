@@ -151,9 +151,9 @@ We are also grateful to the various policymakers and researchers that participat
 
 <br>
 
-<center> <img class="aligncenter wp-image-254" src="/images/ppi/ati.jpg" align="center" width="15%" hspace="10">
-  <img class="aligncenter wp-image-254" src="/images/ppi/undp.jpg" align="center" width="8%" hspace="10">
-  <img class="aligncenter wp-image-254" src="/images/ppi/esrc.jpg" align="center" width="15%" hspace="10">
+<center> <img class="aligncenter wp-image-254" src="/images/ppi/ati.jpg" align="center" width="15%" hspace="20">
+  <img class="aligncenter wp-image-254" src="/images/ppi/undp.jpg" align="center" width="8%" hspace="20">
+  <img class="aligncenter wp-image-254" src="/images/ppi/esrc.jpg" align="center" width="15%" hspace="20">
 </center>
 
 
