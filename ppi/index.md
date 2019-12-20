@@ -21,6 +21,7 @@ These and other related questions live at the center of public debate in interna
 They are intrinsically connected to the complexity of policy prioritization, and they their answers require new analytic tools.
 
 <br>
+
 ## Development as a complex process
 
 PPI combines knowledge from Complexity Economics, Computational Social Science, Behavioral Sciences, and Policy Sciences in a computational framework.
@@ -39,13 +40,15 @@ In this case, PPI's theoretical variables (those at the micro-level that are uno
 Thus, PPI can exploit publicly accessible development-indicator data to provide several useful inferences about how governments can achieve the SDGs.
 
 <br>
-<img class="aligncenter wp-image-254" src="/images/ppi/diagram_2.jpg" alt="netPanel" align="center" width="70%">
+
+<center><img class="aligncenter wp-image-254" src="/images/ppi/diagram_2.jpg" align="center" width="70%"></center>
 
 
 <br>
-## How can I use it?
 
-These are some of the topics in which PPI can support decision-making:
+## What is it useful for?
+
+These are some ways in which PPI can support its users:
 
 - *Allocating transformative resources*: It can be used to inform governments on how to better allocate transformative resources across numerous interdependent policy issues with the aim of reaching a set of goals that have been established in the natinoal or sub-national development plans. *Transformative* refers to those resources destined to generate changes in development indicators beyond those already set in motion by commited expenditure (like maintaining highways and hospitals).
 
@@ -67,23 +70,75 @@ These are some of the topics in which PPI can support decision-making:
 
 
 <br>
-## What data does it need?
+
+## What data do I need?
+
+Just like any other empirical methodology, PPI benefits from bigger and better data.
+Computationally speaking, it scales well, so it can handle more indicators as governments and NGOs continue to create them.
+Thechnically speaking, PPI can simulate indicator dynamics by just providing it with initial and final values, and with two parameters that capture institutional factors of public governance (which can be obtain from datasets such as the World Bank's Worldwide Governance Indicators).
+However, it is highly advisable to also provide the time series of the indicators (so that PPI can match their empirical variance) and a network of interdependencies between the indicators (which can be obtained via qualitative or quantitative methods).
+Other types of data that can significantly improve the quality of the inferences are SDG-fiscal linked data and information on fiscal rigidities.
+As more and better data becomes available in the future, PPI will be able to incorporate it due to its high flexibility to be adapted to new research questions and highly specific contexts.
+The diagram below illustrates the data that, at this stage of development, PPI can exploit.
+
+<br>
+
+<center><img class="aligncenter wp-image-254" src="/images/ppi/pyramid.jpg" align="center" width="60%"></center>
 
 
 <br>
+
 ## Users
 
+These are some users that could benefit from adopting PPI:
+
+- *Governments*: Public agencies in charge of designing budgets and of preparing development plans. These can be at either  the national or subnational level.
+
+- *Sector analysts*: PPI can also be use to analyze policy prioritization at the level of specific sectors if there are relevant indicators (telecommunications, public health, education, etc.).
+
+- *Multilateral organizations*: International agencies who provide policy advice to governments and who publish reports evaluating countries' progress togards the goals of international agendas such as the SDGs.
+
+- *Aid donors*: Organizations who condition international aid on prioritizing specific policy issues can use PPI to evaluate how coherent have been the recipients' policy priorities.
+
+- *Non-governmental organizations*: The civil society can employ PPI to evaluate various aspects of the government's development strategy.
+
+- *Researchers*: Scientists and academics can perform simulation experiments and make inferences that cannot be done without the synthetic micro-level data that PPI generates.
+
+- *Political parties*: Politicians could benefit from better understanding the complexity of achiving the development goals that their campaigns promise.
+
+- *Consultants*: Consultants can adopt PPI to generate policy reports and bespoke evaluations on development-related issues.
+
 
 <br>
+
 ## Resources
 
+#### Papers
+The reference document containing all the technical details and an application is the paper entitled <a href="http://oguerr.com/video" target="_blank" rel="noopener">*Policy Priority Inference: A Computational Method for the Analysis of Socioeconomic Development*</a> by Omar A. Guerrero and Gonzalo Castañeda.
+All other publications related to earlier versions and of PPI and their applications can be found in the <a href="http://oguerr.com/research" target="_blank" rel="noopener">*RESEARCH*</a> section of this website.
+
+#### Presentations
+The <a href="http://oguerr.com/video" target="_blank" rel="noopener">*VIDEO*</a> section of this site contains different videos of presentations that I have given on PPI.
+Here is one of those presentations.
+
+<p>Policy Priority Inference for Sustainable Development<br/>The Alan Turing Institute, 2019</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OVE_mjp3Fxs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Data & code
+The PPI GitHub repository provides all the code used in the reference paper, as well as all the necessary data to reproduce its findings.
+It also contains a series of Jypyter Notebooks with short tutorials about data processing, running simulations, calibrating the model, and performing simple analyses.
 
 <br>
-## Support
 
+## Acknowledgments
+Throughout the development of PPI, various funders have seen the potential and usefulness of the framework and offered their financial support, for which we are grateful.
+We would like to thank The Alan Turing Institute for supporting the early versions of PPI and providing the necessary computational resources, the United Nations Development Programme for financing the adaptation of PPI to the SDGs, and the Economic and Social Research Council for its current sponsorship in integrating open fiscal data into PPI.
+We are also grateful to the various policymakers and researchers that participated in the numerous workshops and seminars where this tool has been presented; their feedback has been invaluable for the improvement of PPI.
 
+<br>
 
-
+## More information
+Should you have any further inquiries regarding PPI, or about consulting and training services, please do not hesitate in contacting me at <a href="mailto:oguerrero@turing.ac.uk" target="_blank" rel="noopener">oguerrero@turing.ac.uk</a>.
 
 
 
