@@ -20,7 +20,6 @@ How can society evaluate the feasibility of such goals?
 These and other related questions live at the center of public debate in international forums and development agendas.
 They are intrinsically connected to the complexity of policy prioritization, and their answers require new methodologies.
 
-
 <center><img class="aligncenter wp-image-254" src="/images/ppi/strip.jpg" align="center" width="100%"></center>
 
 
@@ -34,8 +33,6 @@ These outcomes, in turn, feed back into the governments' decisions about public 
 These micro-macro-micro causal mechanisms are difficult to analyze with traditional statistical tools, especially if not comprehensive multi-level data exists.
 In the real world, macro-level outcomes are typically measured through development indicators.
 However, data on the micro-level policymaking process tend to be scarce, at least in a similar scale and systematic nature as those of development indicators.
-
-<br>
 
 <center><img class="aligncenter wp-image-254" src="/images/ppi/diagram_2.jpg" align="center" width="70%"></center>
 
