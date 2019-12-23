@@ -148,9 +148,7 @@ We are also grateful to the various policymakers and researchers that participat
 <br>
 
 <center> 
-  <img class="aligncenter wp-image-254" src="/images/ppi/ati.jpg" align="center" width="15%" hspace="50">
-  <img class="aligncenter wp-image-254" src="/images/ppi/undp.jpg" align="center" width="5%" hspace="50">
-  <img class="aligncenter wp-image-254" src="/images/ppi/esrc.jpg" align="center" width="10%" hspace="50">
+  <img class="aligncenter wp-image-254" src="/images/ppi/sponsors.jpg" align="center" width="70%" hspace="50">
 </center>
 
 
