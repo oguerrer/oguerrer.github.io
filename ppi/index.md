@@ -54,7 +54,7 @@ Thus, PPI can exploit publicly available datasets to support governments reachin
 These are some ways in which PPI can be used:
 
 - *Allocating transformative resources*: It can be used to inform governments on how to better allocate transformative resources across numerous interdependent policy issues with the aim of reaching a set of goals that have been established in national or sub-national development plans.
-*Transformative* refers to those resources destined to generate changes in development indicators beyond those already set in motion by committed expenditure (like maintaining highways and hospitals).
+*Transformative* refers to those resources allocated to generate changes in development indicators beyond those already set in motion by committed expenditure (like maintaining highways and hospitals).
 
 - *Evaluating feasibility*: Given the indicators' historical trends, PPI can be employed to estimate how long it would take to reach a set of goals.
 Therefore, it is possible to assess whether such goals are feasible in the short or medium run.
