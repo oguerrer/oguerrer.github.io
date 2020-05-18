@@ -117,8 +117,9 @@ These are some of PPI's potential adopters:
 ## Resources
 
 #### Papers
-The reference document containing all the technical details is the paper entitled <a href="http://oguerr.com/video" target="_blank" rel="noopener">*Policy Priority Inference: A Computational Method for the Analysis of Socioeconomic Development*</a> by Omar A. Guerrero and Gonzalo Castañeda.
-All publications about the precursors of PPI can be found in the <a href="http://oguerr.com/research" target="_blank" rel="noopener">*RESEARCH*</a> section.
+The reference document containing technical details is the paper entitled <a href=" http://ssrn.com/abstract=3604041" target="_blank" rel="noopener">*Policy Priority Inference: A Computational Method for the Analysis of Socioeconomic Development*</a> by Omar A. Guerrero and Gonzalo Castañeda.
+We will soon publish a new paper with methodological developments to incorporate open spending data to PPI. 
+All other publications and precursors of PPI can be found in the <a href="http://oguerr.com/research" target="_blank" rel="noopener">*RESEARCH*</a> section.
 
 #### Presentations
 The <a href="http://oguerr.com/video" target="_blank" rel="noopener">*VIDEO*</a> section contains different presentations that I have given on PPI.
