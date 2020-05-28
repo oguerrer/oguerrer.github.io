@@ -5,6 +5,11 @@ title: Video
 
 
 
+<p>Explainer video: Policy Priority Inference</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h3H6tUaDkvE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br />
+
 <p>Innovations in using budget analysis to inform decision making for SDGs<br/>Global Initiative for Fiscal Transparency, 2019</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z8YmYZ-Scxw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
