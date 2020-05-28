@@ -79,6 +79,7 @@ These are some ways in which PPI can be used:
 
 -	*Budget size*: understanding how an increase or decrease in the amount of resources accelerates or delays convergence to the goals.
 
+-	*Optimizing spending*: when coupled with optimization algorithms, PPI han be used as a tool to find optimal allocations.
 
 
 <br>
