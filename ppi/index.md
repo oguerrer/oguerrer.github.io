@@ -127,6 +127,15 @@ The reference document containing technical details is the paper entitled <a hre
 We will soon publish a new paper with methodological developments to incorporate open spending data to PPI. 
 All other publications and precursors of PPI can be found in the <a href="http://oguerr.com/research" target="_blank" rel="noopener">*RESEARCH*</a> section.
 
+#### Policy reports
+So far, three UNDP reports have been made publicly available. They are in Spanish, however, the research paper mentioned above tries to provide the main insigths from these reports.
+
+<center><img class="aligncenter wp-image-254" src="/images/ppi/report_mex_1.jpg" align="center" width="30%"></center>
+<center><img class="aligncenter wp-image-254" src="/images/ppi/report_mex_2.jpg" align="center" width="30%"></center>
+<center><img class="aligncenter wp-image-254" src="/images/ppi/report_mex_3.jpg" align="center" width="30%"></center>
+
+
+
 #### Presentations
 The <a href="http://oguerr.com/video" target="_blank" rel="noopener">*VIDEO*</a> section contains different presentations that I have given on PPI.
 You can find a recent one below.
