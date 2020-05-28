@@ -130,9 +130,9 @@ All other publications and precursors of PPI can be found in the <a href="http:/
 #### Policy reports
 So far, three UNDP reports have been made publicly available. They are in Spanish, however, the research paper mentioned above tries to provide the main insigths from these reports.
 
-<center><img class="aligncenter wp-image-254" src="/images/ppi/report_mex_1.jpg" align="center" width="30%" href="/ppi/200520_IPP_ReporteMetodólogico.pdf" download>&ensp;
-<img class="aligncenter wp-image-254" src="/images/ppi/report_mex_2.jpg" align="center" width="30%" href="/ppi/200520_IPP_ReporteFederal.pdf" download>&ensp;
-<img class="aligncenter wp-image-254" src="/images/ppi/report_mex_3.jpg" align="center" width="30%" href="/ppi/200520_IPP_ReporteEstatal.pdf" download></center>
+<center><a href="/ppi/200520_IPP_ReporteMetodólogico.pdf" download><img class="aligncenter wp-image-254" src="/images/ppi/report_mex_1.jpg" align="center" width="30%"></a>&ensp;
+<a href="/ppi/200520_IPP_ReporteFederal.pdf" download><img class="aligncenter wp-image-254" src="/images/ppi/report_mex_2.jpg" align="center" width="30%"></a>&ensp;
+<a href="/ppi/200520_IPP_ReporteEstatal.pdf" download><img class="aligncenter wp-image-254" src="/images/ppi/report_mex_3.jpg" align="center" width="30%"></a></center>
 
 
 
