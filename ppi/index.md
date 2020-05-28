@@ -8,7 +8,7 @@ Policy Priority Inference (PPI) is a computational framework created to understa
 Please watch the explainer video below in order to get an overview of PPI.
 
 <center>
-<iframe width="360" height="115" src="https://youtu.be/h3H6tUaDkvE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="360" height="115" src="https://www.youtube.com/embed/h3H6tUaDkvE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 
