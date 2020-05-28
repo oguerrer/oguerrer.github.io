@@ -5,7 +5,7 @@ title: Policy Priority Inference
 
 Policy Priority Inference (PPI) is a computational framework created to understand the complexity of policy prioritization and to support governments who wish to distribute transformative resources across numerous policy issues with the aim of reaching specific development goals.
 
-Please watch the explainer video below in order to get an overview of PPI.
+Please watch our explainer video in order to get an overview of PPI.
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h3H6tUaDkvE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
