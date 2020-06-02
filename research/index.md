@@ -5,6 +5,8 @@ title: Research
 
 ## Policy Priority Inference
 
+* <a target="_blank" rel="noopener noreferrer" href="http://ssrn.com/abstract=3604041">Priority Inference: A Computational Method for the Analysis of Socioeconomic Development</a>
+
 * <a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/abs/1902.00432">How Do Governments Determine Policy Priorities? Studying Development Strategies through Spillover Networks</a>
   
 * <a target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.2139/ssrn.3385362 ">Estimating Networks of Sustainable Development Goals</a>
