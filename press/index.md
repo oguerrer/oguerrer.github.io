@@ -3,8 +3,8 @@ layout: page
 title: Press and Media Coverage
 ---
 
-Policy Priority Inference (PPI) is a computational framework created to understand the complexity of policy prioritization and to support governments who wish to distribute transformative resources across numerous policy issues with the aim of reaching specific development goals.
-
+<iframe src="https://www.technologyreview.com/2020/05/29/1002404/united-nations-computer-agents-simulation-boost-global-sustainable-development-goals">
+</iframe>
 
 ## The Sustainable Development Goals (SDGs)
 
