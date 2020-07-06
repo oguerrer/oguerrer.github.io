@@ -5,7 +5,7 @@ title: Video
 
 
 
-<p>Explainer video: Policy Priority Inference</p>
+<p>Explainer video: Policy Priority Inference (click  <a href="https://youtu.be/XxJm_9hsAVM">here</a>  for video in Spanish)</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h3H6tUaDkvE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br />
