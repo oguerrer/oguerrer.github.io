@@ -4,6 +4,9 @@ title: Press and Media Coverage
 ---
 
 
+* <a target="_blank" rel="noopener noreferrer" href="https://www.economist.com/the-world-ahead/2020/11/17/how-computer-simulations-can-help-shape-economic-policy">The Economist (2020) <i>How computer simulations can help shape economic policy</i></a>
+
+
 * <a target="_blank" rel="noopener noreferrer" href="https://www.wired.co.uk/article/un-computer-simulation">Wired UK (2020) <i>To save the world, the UN is turning it into a computer simulation</i></a>
 
 
