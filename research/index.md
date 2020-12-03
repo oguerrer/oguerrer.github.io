@@ -3,6 +3,9 @@ layout: page
 title: Research
 ---
 
+I am interested in a variety of topics related to economics and policy interventions. Here are my academic publications organized by theme. If you are interested in my work in progress or you do not have a subscription to the journals where I have published, feel free to contact me and I will be happy to provide the manuscripts.
+
+
 ## Policy Priority Inference
 
 * <a target="_blank" rel="noopener noreferrer" href="http://ssrn.com/abstract=3604041">Priority Inference: A Computational Method for the Analysis of Socioeconomic Development</a>
