@@ -13,6 +13,9 @@ title: Press and Media Coverage
 * <a target="_blank" rel="noopener noreferrer" href="https://www.technologyreview.com/2020/05/29/1002404/united-nations-computer-agents-simulation-boost-global-sustainable-development-goals">MIT Technology Review (2020) <i>The UN says a new computer simulation tool could boost global development</i></a>
 
 
+* <a target="_blank" rel="noopener noreferrer" href="https://www.elmundo.es/papel/historias/2020/08/20/5f3e9c67fdddff9d1e8b4599.html">El Mundo (2020) <i>Cómo usar la inteligencia artificial para mejorar el mundo</i></a>
+
+
 * <a target="_blank" rel="noopener noreferrer" href="https://www.aithority.com/computing/govtech/the-alan-turing-inst-and-the-un-develop-policy-priority-inference">AITHORITY (2020) <i>The Alan Turing Inst. and the UN Develop Policy Priority Inference Technology for Sustainable Future</i></a>
 
 
@@ -26,3 +29,28 @@ title: Press and Media Coverage
 
 
 * <a target="_blank" rel="noopener noreferrer" href="http://sdg.iisd.org/news/tools-support-policy-makers-efforts-to-prioritize-multiple-goals/">IISD (2020) <i>Tools Support Policy Makers’ Efforts to Prioritize Multiple Goals</i></a>
+
+
+* <a target="_blank" rel="noopener noreferrer" href="https://www.vontobel.com/en-int/impact/test-first-then-invest-un-budget-simulation-to-tackle-sdg-agenda-21169/">Vontobel (2020) <i>Test first, then invest: UN budget simulation to tackle SDG agenda</i></a>
+
+
+* <a target="_blank" rel="noopener noreferrer" href="https://www.myscience.org/news/wire/new_policy_priority_tool_to_supercharge_sustainable_development-2020-UCL">My Science (2020) <i>New policy priority tool to supercharge sustainable development</i></a>
+
+
+* <a target="_blank" rel="noopener noreferrer" href="http://www.diariodetabasco.mx/escenario-politico/2019/12/04/presentan-herramientas-planear-desarrollo-sustentable/">Diario de Tabasco (2020) <i>Presentan herramientas para planear desarrollo sustentable</i></a>
+
+
+* <a target="_blank" rel="noopener noreferrer" href="https://www.posibl.com/es/news/sociedad/como-es-el-sistema-computacional-que-promueve-la-onu-para-combatir-la-desigualdad-en-el-mundo-220a83a4">Posibl. (2020) <i>Cómo es el sistema computacional que promueve la ONU para combatir la desigualdad en el mundo</i></a>
+
+
+* <a target="_blank" rel="noopener noreferrer" href="https://www.co.undp.org/content/colombia/es/home/presscenter/articles/2020/06/pnud-utiliza-inteligencia-artificial--ciencias-de-redes-y-cienci.html">PNUD (2020) <i>PNUD utiliza Inteligencia Artificial, ciencias de redes y ciencias sociales computacionales para orientar prioridades de política pública en el marco de los ODS</i></a>
+
+* <a target="_blank" rel="noopener noreferrer" href="http://ecomlac.lat/2020/06/como-funciona-el-sistema-computacional-que-promueve-la-onu-para-combatir-la-desigualdad-en-el-mundo/">eCOM-L@C (2020) <i>
+Cómo funciona el sistema computacional que promueve la ONU para combatir la desigualdad en el mundo</i></a>
+
+
+
+
+
+
+
