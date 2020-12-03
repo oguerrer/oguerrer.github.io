@@ -6,6 +6,8 @@ title: Research
 I am interested in a variety of topics related to economics and policy interventions.
 Here are my academic publications organized by theme.
 If you are interested in my work in progress or you do not have a subscription to the journals where I have published, feel free to contact me and I will be happy to provide the manuscripts.
+Some of this research has also produced policy impact.
+You can find elated policy reports in the PPI section and media coverage in the Press section.
 
 
 ## Policy Priority Inference
