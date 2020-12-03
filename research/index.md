@@ -40,9 +40,9 @@ Currently, I have produced one publication in this space, but I am working with 
 
 ## Labor Flow Networks
 This research agenda has been constructed in collaboration with Robert Axtell and Eduardo López (George Mason University).
-This research was the one first introduced the idea of thinking about labour dynamics as workers flowing through networks, coining the term `Labor Flow Network` (LFN).
-We have produced different types of models to analyze highly granular dataset of employee-employer matched records and to understand better the consequences of economic shocks.
-Currently, I am working with Áron Pap (Barcelona Graduate School of Economics) and with the UK Department for Business, Energy, and Industrial Strategy (BEIS) in order to develop models that can explain LFNs from economic behavior; something extremely useful to understand the impact of strong shocks.
+This research was the first to introduced the idea of thinking about labour dynamics as workers flowing through networks (where such networks represnt the structure of the labor market), coining the term `Labor Flow Network` (LFN).
+We have produced different types of models (mathematical and computational) to analyze highly granular dataset of employee-employer matched records and to understand better the consequences of economic shocks.
+Currently, I am working with Áron Pap (Barcelona Graduate School of Economics) and with the UK Department for Business, Energy, and Industrial Strategy (BEIS) in order to develop models that can explain LFNs from bottom-up through agent-computing; something extremely useful to understand the impact of strong shocks and to design nuanced policy interventions.
 
 * <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1016/j.jebo.2019.02.028">Frictional Unemployment on Labor Flow Networks</a>
 
