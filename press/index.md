@@ -45,9 +45,9 @@ title: Press and Media Coverage
 
 * <a target="_blank" rel="noopener noreferrer" href="https://www.co.undp.org/content/colombia/es/home/presscenter/articles/2020/06/pnud-utiliza-inteligencia-artificial--ciencias-de-redes-y-cienci.html">PNUD (2020) <i>PNUD utiliza Inteligencia Artificial, ciencias de redes y ciencias sociales computacionales para orientar prioridades de política pública en el marco de los ODS</i></a>
 
-* <a target="_blank" rel="noopener noreferrer" href="http://ecomlac.lat/2020/06/como-funciona-el-sistema-computacional-que-promueve-la-onu-para-combatir-la-desigualdad-en-el-mundo/">eCOM-L@C (2020) <i>
-Cómo funciona el sistema computacional que promueve la ONU para combatir la desigualdad en el mundo</i></a>
 
+* <a target="_blank" rel="noopener noreferrer" href="https://www.infobae.com/america/tecno/2020/06/02/como-funciona-el-sistema-computacional-que-promueve-la-onu-para-combatir-la-desigualdad-en-el-mundo/">Infobae (2020) <i>
+Cómo funciona el sistema computacional que promueve la ONU para combatir la desigualdad en el mundo</i></a>
 
 
 
