@@ -30,7 +30,7 @@ This agenda has been produced in collaboration with Gonzalo Castañeda (CIDE).
 * <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1155/2018/9672849">The Resilience of Public Policies in Economic Development</a>
 
 
-## Housing Market
+## Housing Markets
 This research looks at problems related to housing inequality.
 Currently, I have produced one publication in this space, but I am working with Stephen Law (UCL) in order to build holistic models that incorporate spatial features, highly granular property data, financial institutions, and realistic economic behaviors.
 
