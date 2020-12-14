@@ -15,7 +15,7 @@ This is a research program that uses agent-computing models to link public spend
 This research provides governments and other types of organizations with tools to better determine budgetary priorities when they want to reach a set of goals for their indicators.
 This agenda has been produced in collaboration with Gonzalo Castañeda (CIDE).
 
-* <a target="_blank" rel="noopener noreferrer" href="http://ssrn.com/abstract=3604041">Priority Inference: A Computational Method for the Analysis of Socioeconomic Development</a>
+* <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1017/dap.2020.18">Priority Inference: A Computational Method for the Analysis of Socioeconomic Development</a>
 
 * <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1016/j.jebo.2018.07.017">How Do Governments Determine Policy Priorities? Studying Development Strategies through Spillover Networks</a>
   
