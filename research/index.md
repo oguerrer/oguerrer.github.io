@@ -4,16 +4,23 @@ title: Research
 ---
 
 I am interested in a variety of topics related to economics and policy interventions.
-Here are my academic publications organized by theme.
+Here are some of my academic publications organized by theme.
 If you are interested in my work in progress or you do not have a subscription to the journals where I have published, feel free to contact me and I will be happy to provide the manuscripts.
-Some of this research has also produced policy impact.
-You can find elated policy reports in the PPI section and media coverage in the Press section.
+You can find related policy reports in the PPI section and media coverage in the Press section.
 
 
-## Policy Priority Inference
-This is a research program that uses agent-computing models to link public spending and development indicators.
-This research provides governments and other types of organizations with tools to better determine budgetary priorities when they want to reach a set of goals for their indicators.
-This agenda has been produced in collaboration with Gonzalo Castañeda (CIDE).
+## Policy Priority Inference (PPI)
+This is a research program that uses agent-computing models to estimate the impact of public expenditure on development indicators.
+The problem of impact estimation sounds simple but, unfortunately, data on public expenditure is hard to come by in a form where one could link them to specific performance indicators, especially in a setting where one needs to consider hundreds of interdependent policy issues or indicators.
+Furthermore, even if such data become available, econometric and machine learning methods have a hard time establishing the relationship between expenditure programs and development.
+PPI tries to overcome these limitations by coupling data-science methods with theory-driven computational models of how expenditure contributes to development.
+It provides governments and other types of organizations with tools to better determine budgetary priorities when they want to reach a set of goals for their indicators.
+
+* <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1007/s11625-022-01095-1">How does government expenditure impact sustainable development? Studying the multidimensional link between budgets and development gaps</a>
+
+* <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1017/dap.2020.18">https://www.sciencedirect.com/science/article/pii/S0038012121001476?via%3Dihub</a>
+
+* <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1007/s10101-021-00252-z">Does expenditure in public governance guarantee less corruption? Non-linearities and complementarities of the rule of law</a>
 
 * <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1017/dap.2020.18">Priority Inference: A Computational Method for the Analysis of Socioeconomic Development</a>
 
