@@ -36,7 +36,7 @@ It provides governments and other types of organizations with tools to better de
 
 
 ## Housing Markets
-This research looks at problems related to housing inequality.
+This research looks at problems related to housing markets and inequality problems arising from their dynamics.
 
 * <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1016/j.compenvurbsys.2020.101541">(2020) Decentralized Markets and the Emergence of Housing Wealth Inequality</a>
 
