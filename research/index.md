@@ -18,7 +18,7 @@ It provides governments and other types of organizations with tools to better de
 
 * <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1007/s11625-022-01095-1">How does government expenditure impact sustainable development? Studying the multidimensional link between budgets and development gaps</a>
 
-* <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1017/dap.2020.18">https://www.sciencedirect.com/science/article/pii/S0038012121001476?via%3Dihub</a>
+* <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1016/j.seps.2021.101155">Subnational sustainable development: The role of vertical intergovernmental transfers in reaching multidimensional goals</a>
 
 * <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1007/s10101-021-00252-z">Does expenditure in public governance guarantee less corruption? Non-linearities and complementarities of the rule of law</a>
 
