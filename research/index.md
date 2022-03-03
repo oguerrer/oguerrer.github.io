@@ -62,7 +62,7 @@ Currently, I am working on developing models that can explain LFNs from bottom-u
 This research has produced a methodology to quantify the hidden behavior of vote trading (known as logrolling in the US) in congresses and parliaments.
 Our approach is the first to provide a systemic view of the problem, so researchers can use it to exploit large-scale roll call data from different institutions.
 
-* <a target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.2139/ssrn.3866572"> (2017) Quantifying Vote Trading Through Network Reciprocity</a>
+* <a target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.2139/ssrn.3866572"> (2021) Quantifying Vote Trading Through Network Reciprocity</a>
 
 * <a target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.2139/ssrn.3047871"> (2017) Uncovering Vote Trading Through Networks and Computation</a>
 
