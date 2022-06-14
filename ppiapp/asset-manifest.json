@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ppiapp/static/css/main.304ac310.css",
+    "main.js": "/ppiapp/static/js/main.9dbfb25f.js",
+    "static/media/table.png": "/ppiapp/static/media/table.c9dbf16a394005769866.png",
+    "static/media/Raleway-Medium.ttf": "/ppiapp/static/media/Raleway-Medium.1af9f1e9f3fd4766df83.ttf",
+    "static/media/graphic.png": "/ppiapp/static/media/graphic.bb242dfe6f1cfb7564c1.png",
+    "static/media/templateBudget.xls": "/ppiapp/static/media/templateBudget.c9085db1859b409e1782.xls",
+    "static/media/templateIndicators.xls": "/ppiapp/static/media/templateIndicators.70c1def658e0f8d676ae.xls",
+    "static/media/templateNetwork.xls": "/ppiapp/static/media/templateNetwork.0eb9cb4af68d419fb56a.xls",
+    "static/media/alert.svg": "/ppiapp/static/media/alert.a872f71145f56ad83ee729e62b5f5212.svg",
+    "static/media/trash.svg": "/ppiapp/static/media/trash.22f0aff9f8485a1e7d3a7c4d5c5f2e03.svg",
+    "index.html": "/ppiapp/index.html",
+    "static/media/upload.svg": "/ppiapp/static/media/upload.1f297d8737295edd0c698643dd52e43c.svg",
+    "main.304ac310.css.map": "/ppiapp/static/css/main.304ac310.css.map",
+    "main.9dbfb25f.js.map": "/ppiapp/static/js/main.9dbfb25f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.304ac310.css",
+    "static/js/main.9dbfb25f.js"
+  ]
+}
