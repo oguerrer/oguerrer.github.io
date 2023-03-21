@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ppiapp/static/css/main.a2274e65.css",
-    "main.js": "/ppiapp/static/js/main.76de2389.js",
+    "main.js": "/ppiapp/static/js/main.3178e753.js",
     "static/media/Raleway-Medium.ttf": "/ppiapp/static/media/Raleway-Medium.1af9f1e9f3fd4766df83.ttf",
     "static/media/template_indicators.xls": "/ppiapp/static/media/template_indicators.7d14cd2710795d4568a2.xls",
     "static/media/graphic.svg": "/ppiapp/static/media/graphic.6c0f45942723524b23983c2d0c66d92f.svg",
@@ -14,10 +14,10 @@
     "index.html": "/ppiapp/index.html",
     "static/media/upload.svg": "/ppiapp/static/media/upload.1f297d8737295edd0c698643dd52e43c.svg",
     "main.a2274e65.css.map": "/ppiapp/static/css/main.a2274e65.css.map",
-    "main.76de2389.js.map": "/ppiapp/static/js/main.76de2389.js.map"
+    "main.3178e753.js.map": "/ppiapp/static/js/main.3178e753.js.map"
   },
   "entrypoints": [
     "static/css/main.a2274e65.css",
-    "static/js/main.76de2389.js"
+    "static/js/main.3178e753.js"
   ]
 }
