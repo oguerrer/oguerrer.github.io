@@ -8,5 +8,7 @@ I also run different projects that you can find in the <a target="_blank" rel="n
 One of the largest projects under active development is <a target="_blank" rel="noopener noreferrer" href="http://policypriority.org">Policy Priority Inference</a>, which has numerous academic and policy publications.
 For an updated list of my academic work, you can visit my <a target="_blank" rel="noopener noreferrer" href="https://scholar.google.com/citations?hl=en&user=5ft7NZkAAAAJ">Google Scholar</a>.
 
+In the rest of this website you can find more about non-academic publications such as dissemination material, presentations, and press.
+
 
 
