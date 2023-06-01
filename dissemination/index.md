@@ -3,6 +3,10 @@ layout: page
 title: Dissemination
 ---
 
+<p>IMF Public Financial Management Blog (2022): <a target="_blank" rel="noopener noreferrer" href="https://blog-pfm.imf.org/en/pfmblog/2022/03/the-sdgs-as-a-bridge-between-pfm-and-artificial-intelligence">The SDGs as a Bridge between PFM and Artificial Intelligence</a>
+  <br/><small>The SDGs serve an–often not obvious–function of crucial importance to technical teams working on PFMs, thus enabling the application of Artificial Intelligence (AI) to understand the impact of budgeting strategies and policy priorities. </small>
+</p>
+
 <p>UCL Public Policy Blog (2019): <a target="_blank" rel="noopener noreferrer" href="https://medium.com/policy-postings/reaching-the-sustainable-development-goals-through-computational-social-sciences-3d334313b46c">Reaching the Sustainable Development Goals through Computational Social Sciences</a>
   <br/><small>Development indicators are typically used to –ex-post– evaluate outcomes. However, governments could take greater advantage of them, for example, to –ex-ante– understand how some policy priorities are more or less effective in reaching specific development goals.</small>
 </p>
