@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkalan_turing_ppi=self.webpackChunkalan_turing_ppi||[]).push([[833],{4833:function(n,e,t){t.r(e),t.d(e,{NotFound:function(){return r}});t(2791);var u=t(2124),i=t(184),r=function(){return(0,i.jsxs)("div",{children:["This page does not exist!",(0,i.jsx)(u.FX,{routeName:u.Uf.HOME,children:"Go Home"})]})};e.default=r}}]);
-//# sourceMappingURL=833.addf8fa9.chunk.js.map
