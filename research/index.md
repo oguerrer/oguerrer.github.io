@@ -12,3 +12,13 @@ In the rest of this website you can find more about non-academic publications su
 
 
 
+<br />
+<br />
+If you are interested in complexity economics, computational social science, or development economics, check out my book.
+<br />
+<br />
+<center>
+<b><a target="_blank" rel="noopener noreferrer" href="https://www.cambridge.org/gb/universitypress/subjects/economics/economic-development-and-growth/complexity-economics-and-sustainable-development-computational-framework-policy-priority-inference?format=PBg">Complexity Economics and Sustainable Development: A Computational Framework for Policy Priority Inference</a></b>
+<br />
+<img src="/images/book_cover.png">
+</center>
