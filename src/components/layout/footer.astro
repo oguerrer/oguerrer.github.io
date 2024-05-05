@@ -1,0 +1,28 @@
+---
+import { siteConfig } from "@/config/site";
+import { cn } from "@/lib/utils";
+import { Icon } from "astro-icon/components";
+
+type Props = {
+  className?: string;
+};
+
+const { className } = Astro.props;
+---
+
+<footer class={cn(className)}>
+  <hr class="my-6" />
+  <div
+    class="flex items-center justify-center gap-4 px-8 md:gap-2 md:px-0 mb-8"
+  >
+    <a href="https://twitter.com/guerrero_oa"  target="_blank" rel="noopener noreferer" aria-label="twitter">
+      <Icon name="twitter" class="size-8" />
+    </a>
+    <a href="https://github.com/oguerrer" target="_blank" rel="noopener noreferer" aria-label="github">
+      <Icon name="github" class="size-8" />
+    </a>
+    <a href="https://linkedin.com/in/oguerr" target="_blank" rel="noopener noreferer" aria-label="linkedin">
+      <Icon name="linkedin" class="size-8" />
+    </a>
+  </div>
+</footer>

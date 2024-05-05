@@ -1,0 +1,22 @@
+---
+import ResearchHeader from "@/components/research-header.astro";
+import MainLayout from "@/layouts/main-layout.astro";
+import CategoryCard from "@/components/cards/category-card.astro";
+import { getCategories } from "@/lib/fetchers";
+
+const categories = await getCategories();
+---
+
+<MainLayout title="Research">
+  <section class="container py-10">
+    <ResearchHeader
+      title="Research"
+      description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    />
+    <div
+      class="grid md:grid-cols-2 lg:grid-cols-4 gap-x-6 gap-y-9 md:gap-y-11 lg:gap-y-16 lg:gap-x-8"
+    >
+      {categories.map((post, index) => <CategoryCard {...post} index={index} />)}
+    </div>
+  </section>
+</MainLayout>

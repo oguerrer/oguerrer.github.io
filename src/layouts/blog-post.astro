@@ -1,0 +1,63 @@
+---
+import { buttonVariants } from "@/components/ui/button";
+import { cn, formatDate } from "@/lib/utils";
+import { Icon } from "astro-icon/components";
+import type { CollectionEntry } from "astro:content";
+import MainLayout from "./main-layout.astro";
+
+type Props = CollectionEntry<"research">;
+
+const slug = Astro.props.slug;
+const { title, description, pubDate, updatedDate, publicationLink, category, ossLink } =
+  Astro.props.data;
+---
+
+<MainLayout title={title} description={description}>
+  <div class="relative container max-w-screen-md py-10">
+    <a
+      href={`/research/category/${category}/`}
+      class={cn(
+        buttonVariants({ variant: "ghost" }),
+        "relative xl:absolute xl:left-[-200px] xl:top-10 xl:hidden xl:inline-flex text-muted-foreground px-0 xl:px-4"
+      )}
+      transition:animate="fade"
+    >
+      <Icon name="lucide:chevron-left" class="mr-2 size-4" />
+       Back
+    </a>
+
+    <article class="prose max-w-none">
+      <h1 class="font-heading text-4xl my-4" transition:name={"title-" + slug}>
+        {title}
+      </h1>
+      <div class="flex flex-col">
+        <span
+          class="font-medium text-muted-foreground"
+          transition:name={"date-" + slug}
+        >
+          Published on: {formatDate(pubDate)}
+          {
+            updatedDate && (
+              <span>- Last updated on {formatDate(updatedDate)}</span>
+            )
+          }
+        </span>
+        {publicationLink && <span
+          class="font-medium text-muted-foreground"
+          transition:name={"date-" + slug}
+        >
+          Publication link: <a target="_blank" rel="noopener noreferer" href={publicationLink}>{publicationLink}</a>
+        </span>}
+        {ossLink && <span
+          class="font-medium text-muted-foreground"
+          transition:name={"date-" + slug}
+        >
+          Open source code and data: <a target="_blank" rel="noopener noreferer" href={ossLink}>{ossLink}</a>
+        </span>}
+      </div>
+      <p class="text-xl">{description}</p>
+      <hr class="my-6" />
+      <slot />
+    </article>
+  </div>
+</MainLayout>
