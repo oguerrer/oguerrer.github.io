@@ -1,0 +1,63 @@
+---
+import ResearchHeader from "@/components/research-header.astro";
+import ResearchCard from "@/components/cards/research-card.astro";
+import MainLayout from "@/layouts/main-layout.astro";
+import { buttonVariants } from "@/components/ui/button";
+import { cn } from "@/lib/utils";
+import { Icon } from "astro-icon/components";
+import CategoryCard from "../../../components/cards/category-card.astro";
+import { getCollection } from "astro:content";
+import { getEntries } from "astro:content";
+import type { CollectionEntry } from "astro:content";
+
+export async function getStaticPaths() {
+  const categories = await getCollection("categories");
+
+  return categories.map((category) => ({
+    params: { slug: category.slug },
+    props: category,
+  }));
+}
+
+type Props = CollectionEntry<'categories'>;
+
+const { slug } = Astro.params;
+const category = Astro.props;
+
+if (!slug) {
+  return new Response(null, {
+    status: 404,
+    statusText: "Not found",
+  });
+}
+
+const research = await getEntries(category.data.research);
+---
+
+<MainLayout title={`${category.data.title} | Research`} description={`All posts for ${category} category`}>
+  
+  <section class="container py-10">
+    <a
+      href="/research"
+      class={cn(
+        buttonVariants({ variant: "ghost" }),
+        "top-10 text-muted-foreground px-0"
+      )}
+      transition:animate="slide"
+    >
+      <Icon name="lucide:chevron-left" class="mr-2 size-4" />
+       See all research
+    </a>
+    <ResearchHeader title={category.data.title} description={category.data.description} />
+    <div
+      class="flex flex-col md:flex-row"
+    >
+      <div class="md:w-1/4 w-full mb-4 md:mb-0 md:mr-8">
+        <CategoryCard {...category} active />
+      </div>
+      <div class="md:w-3/4 w-full">
+        {research.map((post) => <ResearchCard {...post} />)}
+      </div>
+    </div>
+  </section>
+</MainLayout>

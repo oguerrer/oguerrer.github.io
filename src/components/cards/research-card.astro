@@ -1,0 +1,31 @@
+---
+import { formatDate } from "@/lib/utils";
+import type { CollectionEntry } from "astro:content";
+
+type Props = CollectionEntry<"research">;
+
+const post = Astro.props;
+---
+
+<article class="group space-y-4">
+  <a
+    href={`/research/${post.slug}/`}
+    class="group-hover:-translate-y-1 group-hover:shadow-xl mb-4 transition duration-300 block xl:max-w-lg p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100"
+  >
+    <h2
+      class="font-heading text-xl md:text-2xl"
+      transition:name={"title-" + post.slug}
+      >
+      {post.data.title}
+    </h2>
+    <span
+      class="font-medium text-muted-foreground"
+      transition:name={"date-" + post.slug}
+    >
+      Published on:   {formatDate(post.data.pubDate)}
+    </span>
+    <p>
+      {post.data.description}
+    </p>
+  </a>
+</article>

@@ -1,0 +1,4 @@
+---
+const link = Astro.props;
+---
+<a class="border-dotted border-b-2 border-inherit" href={link.href} target={link.target} rel={link.rel} set:html={link.text} />

@@ -1,0 +1,30 @@
+---
+const post = Astro.props;
+---
+
+<article class="group space-y-4">
+  {!post.active ? 
+  <div class="group relative"><a
+    href={`/research/category/${post.slug}/`}
+    class="flex text-white flex mx-auto p-4 items-center text-center justify-center transition-transform duration-300 overflow-hidden rounded-full w-full h-20 lg:w-60 lg:h-60 bg-gradient-to-r from-stone-500 to-stone-700 hover:animate-p"
+  >
+    <h2
+      class="font-heading text-xl md:text-2xl"
+      transition:name={"title-" + post.data.title}
+      >
+      {post.data.title}
+    </h2>
+  </a>
+  <div class="absolute bottom-0 left-1/2 transform -translate-x-1/2 opacity-0 lg:group-hover:opacity-100 transition-opacity duration-300 bg-gray-800 text-white px-4 py-2 rounded-md text-sm whitespace-nowrap">
+      {post.data.description}
+    </div></div> : <div><div
+    class="flex text-white  p-4 flex mx-auto items-center text-center justify-center transition-transform duration-300 overflow-hidden rounded-full w-full h-20 lg:w-60 lg:h-60 bg-gradient-to-r from-stone-500 to-stone-700 hover:animate-p"
+  >
+    <h2
+      class="font-heading text-xl md:text-2xl"
+      transition:name={"title-" + post.data.title}
+      >
+      {post.data.title}
+    </h2>
+  </div></div>}
+</article>

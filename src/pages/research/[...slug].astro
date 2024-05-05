@@ -1,0 +1,38 @@
+---
+import BlogPostLayout from '@/layouts/blog-post.astro';
+import { getEntries } from 'astro:content';
+import { type CollectionEntry } from 'astro:content';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+	const research = await getCollection('research');
+  const categories = await getCollection('categories');
+
+  return research.map((r) => ({
+    params: { slug: r.slug },
+    props: {
+      ...r,
+      data: {
+        ...r.data,
+        category: categories.find((c) => c.data.research.some((a) => a.slug === r.slug))?.slug,
+      }
+    }
+  }));
+}
+
+type Props = CollectionEntry<'research'>;
+
+const post = Astro.props;
+const slug = Astro.params.slug;
+const { Content } = await post.render();
+
+if (!slug || !post) {
+  return new Response(null, {
+    status: 404,
+    statusText: 'Not found'
+  });
+}
+---
+<BlogPostLayout {...post}>
+	<Content />
+</BlogPostLayout>
