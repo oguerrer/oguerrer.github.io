@@ -1,7 +1,7 @@
 ---
 title: 'Scaling and complexity of labor markets'
 description: 'My first work on the complex dynamics of labour movements captured in administrative large-scale micro-data. My idea was to test whether certain statistical regularities that are prevalent in firm dynamics studies held when using worker flow large-scale datasets.'
-pubDate: '2010'
+pubDate: '2011'
 publicationLink: 'https://tinyurl.com/complexlabour'
 ---
 

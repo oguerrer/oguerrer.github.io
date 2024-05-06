@@ -1,0 +1,8 @@
+---
+title: 'Using agentization for exploring firm and labor dynamics'
+description: 'This was our first attempt to understand the overlap between neoclassical economic models and agent-computing ones. In this particular study, we demonstrate how to generalised a well-known neoclassical model of firm dynamics to gradually turn it into an agent-computing model that is capable of generating a broader set of statistical regularities without the need of assumptions such as equilibrium.'
+pubDate: 'Jun 13 2011'
+publicationLink: 'https://doi.org/10.1007/978-3-642-21108-9_12'
+---
+
+Agentization is the process of rendering neoclassical models into computational ones. This methodological tool can be used to analyze and test neoclassical theories under a more flexible computational framework. This paper presents agentization and its methodological framework. We propose that, by classifying the assumptions of a neoclassical model, it is possible to systematically analyze their influence in the predictions of a theory. Furthermore, agentization allows the researcher to explore the potentials and limitations of theories. We present an example by agentizing the model of Gabaix (1999) for the emergence of Zipf laws. We show that the agentized model is able to reproduce the main features of the Gabaix process, without holding neoclassical assumptions such as equilibrium, rationality, agent homogeneity, and centralized anonymous interactions. Additionally, the model generates stylized facts such as tent-shaped firm growth rates distributions, and the employer-size wage premium. These regularities are not considered in the neoclassical model. Thus, allows the researcher to explore the boundaries and potentials of the theory.
