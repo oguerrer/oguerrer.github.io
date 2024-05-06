@@ -1,7 +1,7 @@
 ---
 title: 'Government behaviour'
 description: 'Studies on different facets of government decisions.'
-cover: '/images/research_government.jpg'
+cover: '/images/research_goverment.jpg'
 research:
 - labour-markets
 ---
