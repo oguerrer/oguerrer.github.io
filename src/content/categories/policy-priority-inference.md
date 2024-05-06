@@ -1,7 +1,7 @@
 ---
 title: 'Policy priority inference'
-description: 'This is a description'
-cover: '/images/policy-priority.webp'
+description: 'The PPI programme of research.'
+cover: '/images/research_ppi.jpg'
 research:
 - labour-markets
 ---

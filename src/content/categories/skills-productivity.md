@@ -1,7 +1,7 @@
 ---
 title: 'Skills and productivity'
-description: 'asddad.'
-cover: '/images/research_labour.jpg'
+description: 'Methods to quantify skills complementarity.'
+cover: '/images/research_skills.jpg'
 research:
 - labour-markets
 ---
