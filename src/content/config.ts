@@ -6,6 +6,7 @@ const categories = defineCollection({
     title: z.string(),
     description: z.string(),
     research: z.array(reference('research')),
+    cover: z.string().optional(),
   }),
 });
 
