@@ -1,5 +1,5 @@
 ---
-title: 'Scaling and complexity of labor markets: evidence from Mexican labor micro-data'
+title: 'Scaling and complexity of labor markets'
 description: 'My first publication looking at the complex dynamics of labour movements captured in administrative large-scale micro-data.'
 pubDate: '2010'
 publicationLink: 'https://tinyurl.com/complexlabour'
