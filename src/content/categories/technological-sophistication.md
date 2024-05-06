@@ -1,5 +1,5 @@
 ---
-title: 'Productivity and technological sophistication'
+title: 'Technological sophistication'
 description: 'This is a description'
 research:
 - labour-markets
