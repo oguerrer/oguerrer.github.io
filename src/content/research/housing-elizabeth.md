@@ -1,6 +1,6 @@
 ---
 title: 'The spatial structure of housing affordability and the impact of public infrastructure'
-description: 'A generalisation of my previous model to account for property-specific characteristics. This model generates spatial price structures endogenously and allows granular impact evaluation.'
+description: 'Building on my previous work on housing wealth inequality, I generalise my model to allow for property-specific characteristics. The aim of this paper is to endogenously produce the spatial price structure of London (from economic micro-level behaviour) to enable the impact of public infrastructure on housing affordability. The subtlety in this work is that housing affordability requires both matched data between properties and household characteristics, something unavailable in official statistical datasets, and that usually requires statistical matching techniques that ignore economic behaviours and incentives.'
 pubDate: 'Mar 13 2024'
 publicationLink: 'https://doi.org/10.1080/17477778.2024.2325428'
 ---
