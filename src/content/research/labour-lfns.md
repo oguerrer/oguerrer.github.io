@@ -1,6 +1,6 @@
 ---
 title: 'Employment growth through labor flow networks'
-description: 'After my first work using worker flow data, I knew that there was a lot more to be learnt from such granular information. Hence, I flipped the problem to look at employees moving across firms rather than at firms themselves. By using network analysis, we found a plethora of empirical regularities that had never been documented in labour studies. This work coined the term Labor Flow Networks and set the basis for many works from various people using network-based approaches to understand labour dynamics.'
+description: 'After my first work using worker flow data, I knew that there was a lot more to be learnt from such granular information. Hence, I flipped the problem to look at employees moving across firms rather than at firms themselves. By using network analysis, we found a plethora of empirical regularities that had never been documented in labour studies. This work coined the term Labor Flow Networks (LFNs) and set the basis for many works from various researchers LFNs.'
 pubDate: 'May 02 2013'
 publicationLink: 'https://doi.org/10.1371/journal.pone.0060808'
 ---
