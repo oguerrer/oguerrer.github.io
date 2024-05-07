@@ -6,6 +6,7 @@ research:
 - development-jebo
 - development-resilience
 - development-lucas
+- development-coherence
 - development-ppi
 - development-networks
 ---
