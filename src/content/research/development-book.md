@@ -1,0 +1,9 @@
+---
+title: 'Complexity economics and sustainable development'
+description: 'After five years working on Policy Priority Inference, we decided to write a book that would showcase the latest version of our model, applications, open source code, and data. This book is the synthesis of this programme of research and the most complete introduction to its toolkit. It also introduces new concepts and measures such as accelerators and systemic bottlenecks.'
+pubDate: 'Jan 2024'
+publicationLink: 'https://search.worldcat.org/title/1420147493'
+ossLink: 'https://github.com/oguerrer/PPI4SD'
+---
+
+The Sustainable Development Goals are global objectives set by the UN. They cover fundamental issues in development such as poverty, education, economic growth, and climate. Despite growing data across policy dimensions, popular statistical approaches offer limited solutions as these datasets are not big or detailed enough to meet their technical requirements. Complexity Economics and Sustainable Development provides a novel framework to handle these challenging features, suggesting that complexity science, agent-based modelling, and computational social science can overcome these limitations. Building on interdisciplinary socioeconomic theory, it provides a new framework to quantify the link between public expenditure and development while accounting for complex interdependencies and public governance. Accompanied by comprehensive data of worldwide development indicators and open-source code, it provides a detailed construction of the analytic toolkit, familiarising readers with a diverse set of empirical applications and drawing policy implications that are insightful to a diverse readership.
