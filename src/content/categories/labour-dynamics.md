@@ -6,9 +6,6 @@ research:
 - labour-complexity
 - labour-lfns
 - labour-matching
-- labour-unemployment
-- labour-eps
-- labour-jebo
-- labour-endogenous
+
 
 ---
