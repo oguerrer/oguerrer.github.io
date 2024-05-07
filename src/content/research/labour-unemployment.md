@@ -1,0 +1,10 @@
+---
+title: 'Understanding unemployment in the era of big data'
+description: 'So far I had established the presence of characteristic networked structures in labour flows and the inability of neoclassical economic models to account for them. Next, I wanted to find out if these structures had implications in important outcomes such as unemployment. This paper presents a simple model of workers flowing on labour flow networks and shows how the structure of the network and its correlation with job opportunities may exacerbate  unemployment in the presence of shocks.
+pubDate: 'Oct 26 2016'
+publicationLink: 'https://doi.org/10.1002/poi3.136'
+ossLink: 'https://github.com/oguerrer/mnc4up'
+---
+
+
+On one hand, unemployment is a central issue in all countries. On the other, the economic policies designed to mitigate it are usually built on theoretical grounds that are validated at an aggregate level, but have little or no validity from a micro point of view. This situation is a cause for concern because policies are designed and implemented at the level of individuals and organisations, so ignoring realistic micro-mechanisms may lead to undesirable outcomes in the real world. Ironically, the data to inform theoretical frameworks at the micro-level have existed in labor studies since the 1980s. However, it is only now that we count with analyti­cal methods and computational tools to take full advantage of it. In this paper, we argue that big data from administrative records, in conjunction with network science and agent-computing models, offer new opportunities to inform theories of unemployment and improve policies. Based on previous empirical work with administrative big data, we introduce a data-driven model of unemployment dy­namics that is validated at both the micro- and macro-levels. At a first glance, validation at the micro-level seems unnecessary since we focus on aggregate un­employment. However, by establishing a connection between our model and the ones commonly used to advise policy, we show that overlooking micro-level validity leads to erroneous predictions with significant real-world consequences.
