@@ -1,0 +1,8 @@
+---
+title: 'How does government expenditure impact sustainable development?'
+description: 'Another concept that is important in development economics and, yet, lacks a quantitative treatment is that of a structural bottleneck. Here we propose a method to identify policy issues that have potential structural bottlenecks and present a worldwide diagnostic of the obstacles that they represent in terms of the Sustainable Development Goals.'
+pubDate: 'Feb 08 2022'
+publicationLink: 'https://doi.org/10.1007/s11625-022-01095-1'
+---
+
+We develop a bottom-up causal framework to study the impact of public spending on high-dimensional and interdependent policy spaces in the context of socioeconomic and environmental development. Using data across 140 countries, we estimate the indicator-country-specific development gaps that will remain open in 2030. We find large heterogeneity in development gaps, and non-linear responses to changes in the total amount of government expenditure. Importantly, our method identifies bounds to how much a gap can be reduced by 2030 through sheer increments in public spending. We show that these structural bottlenecks cannot be addressed through expenditure on the existing government programs, but require novel micro-policies intended to affect behaviors, technologies, and organizational practices. One particular set of bottlenecks that stands out relates to the environmental issues contained in the sustainable development goals 14 and 15.
