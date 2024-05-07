@@ -8,6 +8,7 @@ research:
 - labour-matching
 - labour-unemployment
 - labour-epj
+- labour-multiplex
 - labour-jebo
 - labour-endogenous
 
