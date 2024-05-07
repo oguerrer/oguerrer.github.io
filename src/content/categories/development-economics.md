@@ -10,4 +10,5 @@ research:
 - development-ppi
 - development-networks
 - development-corruption
+- development-subnational
 ---
