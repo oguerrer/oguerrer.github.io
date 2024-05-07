@@ -1,0 +1,9 @@
+---
+title: 'Policy priority inference'
+description: 'Shortly after our first publications on policy prioritisation, we were approached by the UNDP as they saw potential in our model to address challenges related to the Sustainable Development Goals. This was our first attempt to generalise our model (to account for conflicting priorities) and make it usable with most existing datasets.'
+pubDate: 'Dec 11 2020'
+publicationLink: 'http://dx.doi.org/10.1017/dap.2020.18.'
+ossLink: 'https://github.com/oguerrer/PPI4SD'
+---
+
+We build a computational framework to support the planning of development and the evaluation of budgetary strategies toward the 2030 Agenda. The methodology takes into account some of the complexities of the political economy underpinning the policymaking process: the multidimensionality of development, the interlinkages between these dimensions, and the inefficiencies of policy interventions, as well as institutional factors that promote or discourage these inefficiencies. The framework is scalable and usable even with limited publicly available information: development-indicator data. However, it can be further refined as more data becomes available, for example, on public expenditure. We demonstrate its usage through an application for the Mexican federal government. For this, we infer historical policy priorities, that is, the non-observable allocations of transformative resources that generated past changes in development indicators. We also show how to use the tool to assess the feasibility of development goals, to measure policy coherence, and to identify accelerators. Overall, the framework and its computational tools allow policymakers and other stakeholders to embrace a complexity (and a quantitative) view to tackle the challenges of the Sustainable Development Goals.

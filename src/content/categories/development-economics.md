@@ -5,4 +5,6 @@ cover: '/images/research_ppi.webp'
 research:
 - development-jebo
 - development-resilience
+- development-lucas
+- development-ppi
 ---
