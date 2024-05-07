@@ -1,4 +1,4 @@
-# New Oguerrero site
+# New oguerr site
 
 ## Project Structure
 
