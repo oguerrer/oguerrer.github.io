@@ -1,0 +1,8 @@
+---
+title: 'Estimating worker complementarity with an endogenous technology model'
+description: 'In economics, skill sorting is the process through which human capital finds its way to where it is demanded. Studies on this topic usually skip the sorting process and focus on an ideal equilibrium outcome. This paper develops a new theory of skills and how they endogenously shape the technology of firms. We formalise this theory in a computational model that allow us to estimate new measures of productivity, for example, what we call the complementarity wage premium.'
+pubDate: 'Mar 14 2024'
+publicationLink: 'http://dx.doi.org/10.2139/ssrn.4759485 '
+---
+
+This paper develops a theory of endogenous technology where skill-based worker sorting is a central mechanism. In this approach, skills are modeled as tuples of a specialization and a level of ability. Firms maximize profits by combining these tuples to unlock various schemes of returns to scale. In the model, specialization diversity shifts the production function outwards, allowing firms to temporarily overcome decreasing marginal returns while workers seek to cooperate with people of similar ability taking advantage of complementarities. Calibrating this model with U.S. occupational data, we find that our ability estimates replicate occupation wages at the state and national levels, the Gini coefficient, state-level productivity values, as well as a collection of stylized facts about firms. Our empirical strategy allows us to estimate the size of the skill complementarity wage premium. We find 35% of the average worker’s wage stems from productivity increases due to complementarities between coworkers.
