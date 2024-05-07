@@ -1,6 +1,6 @@
 ---
 title: 'Synergistic small worlds that drive technological sophistication'
-description: 'Measuring technological sophistication is quite a challenging problem. In this project, we use the concept of synergistic information as an analogue to economic complementarity between inputs in a production process. Then, we adapt information-theory methods to provide a data-driven framework to measure how complementary are two inputs and to discover the networked structure behind technological sophistication.
+description: 'Measuring technological sophistication is quite a challenging problem. In this project, we use the concept of synergistic information as an analogue to economic complementarity between inputs in a production process. Then, we adapt information-theory methods to provide a data-driven framework to measure how complementary are two inputs and to discover the networked structure behind technological sophistication.'
 pubDate: 'Jul 31 2023'
 publicationLink: ' 	
 https://doi.org/10.48550/arXiv.2301.04579'
