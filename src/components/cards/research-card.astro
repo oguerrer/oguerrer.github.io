@@ -22,7 +22,7 @@ const post = Astro.props;
       class="font-medium text-muted-foreground"
       transition:name={"date-" + post.slug}
     >
-      Published on:   {formatDate(post.data.pubDate)}
+      Published on:   {post.data.pubDate}
     </span>
     <p>
       {post.data.description}

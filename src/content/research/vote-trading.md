@@ -1,7 +1,7 @@
 ---
 title: 'Quantifying vote trading through network reciprocity'
 description: 'Our aim with this paper was to create the first method to estimate vote trading in congresses using roll call data. We develop a network approach and succeed at providing the first large-scale estimates of vote trading and validating our results with previous micro-level studies.'
-pubDate: 'Nov 04 2016'
+pubDate: '2016'
 publicationLink: 'http://dx.doi.org/10.2139/ssrn.3866572'
 ---
 
