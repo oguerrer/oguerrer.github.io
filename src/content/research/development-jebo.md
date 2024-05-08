@@ -1,5 +1,6 @@
 ---
-title: 'How do governments determine policy priorities?'
+title: 'How do governments determine policy priorities? Studying development strategies through spillover networks'
+titleShort: 'How do governments determine policy priorities?'
 description: 'Effective policy prioritisation is key to successful development strategies. Yet, from our experience consulting for governments and international organisations, it seemed that governments rarely enact the priorities they promote in public speech. At the time we wrote this piece, there was little data mapping budgets (the actions/priorities) into development goals (the aspirations). Hence, this was our first attempt to model the policy prioritisation process of a government with the aim of explaining the performance of its indicators. This work was the seminal piece that led to the growth of the Policy Priority Inference programme of research.'
 pubDate: '2018'
 publicationLink: 'https://doi.org/10.1016/j.jebo.2018.07.017'

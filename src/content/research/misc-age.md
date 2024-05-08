@@ -1,5 +1,6 @@
 ---
 title: 'A method for emerging empirical age structures in agent-based models with exogenous survival probabilities'
+titleShort: 'A method for emerging empirical age structures in agent-based models with exogenous survival probabilities'
 description: 'This work was inspired by a problem faced by policymaking users of agent-based models: how to generate the empirical age distribution in a model with a constant steady-state population. Traditional methods such as survival probability imputation do not work because the assumed statistical model used to estimate those probabilities differs from the agent-based one. Here, we develop a methodology to estimate the correct survival probabilities and generate a large variety of age distributions.'
 pubDate: '2023'
 publicationLink: 'https://www.jasss.org/27/1/8.html'

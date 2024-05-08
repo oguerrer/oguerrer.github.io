@@ -1,5 +1,6 @@
 ---
-title: 'Policy priority inference'
+title: 'Policy priority inference: A computational framework to analyze the allocation of resources for the sustainable development goals'
+titleShort: 'Policy priority inference'
 description: 'Shortly after our first publications on policy prioritisation, we were approached by the UNDP as they saw potential in our model to address challenges related to the Sustainable Development Goals. This was our first attempt to generalise our model (to account for conflicting priorities) and make it usable with most existing datasets.'
 pubDate: '2020'
 publicationLink: 'http://dx.doi.org/10.1017/dap.2020.18.'

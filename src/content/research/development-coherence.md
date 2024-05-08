@@ -1,5 +1,6 @@
 ---
 title: 'Quantifying the coherence of development policy priorities'
+titleShort: 'Quantifying the coherence of development policy priorities'
 description: 'A concept that seemed prevalent in the broader development community, and especially in policy circles, is "policy coherence". To our surprise, most of the work on this topic was theoretical or conceptual. It seemed necessary to formalise this idea and quantify it to provide policymakers with tools to systematically evaluate whether (and how much) the actions (priorities) or governments are coherent with their goals (aspirations). This is the first quantitative study on policy coherence for development.'
 pubDate: '2020'
 publicationLink: 'https://doi.org/10.1111/dpr.12498'

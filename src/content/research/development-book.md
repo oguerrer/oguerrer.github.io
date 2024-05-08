@@ -1,5 +1,6 @@
 ---
-title: 'Complexity economics and sustainable development'
+title: 'Complexity Economics and Sustainable Development: A Computational Framework for Policy Priority Inference'
+titleShort: 'Complexity economics and sustainable development'
 description: 'After five years working on Policy Priority Inference, we decided to write a book that would showcase the latest version of our model, applications, open source code, and data. This book is the synthesis of this programme of research and the most complete introduction to its toolkit. It also introduces new concepts and measures such as accelerators and systemic bottlenecks.'
 pubDate: '2024'
 publicationLink: 'https://search.worldcat.org/title/1420147493'

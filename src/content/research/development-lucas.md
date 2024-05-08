@@ -1,6 +1,6 @@
 ---
-title: 'The importance of social and government learning in ex ante policy evaluation
-Author links open overlay panel'
+title: 'The importance of social and government learning in ex ante policy evaluation'
+titleShort: 'The importance of social and government learning in ex ante policy evaluation'
 description: 'A common question that we got whenever we would present our policy-prioritisation model was if it accounted for the Lucas critique: the idea that policy based on models that ignore expectations would ultimately fail. Hence, in a more academic-oriented piece, we elaborate on how agent-computing models can address the Lucas critique in a wider and more flexible way than other popular frameworks in economics.'
 pubDate: '2019'
 publicationLink: 'https://doi.org/10.1016/j.jpolmod.2019.01.001'

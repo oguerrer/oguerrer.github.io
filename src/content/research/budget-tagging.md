@@ -1,5 +1,6 @@
 ---
-title: 'Automatic SDG budget tagging'
+title: 'Automatic SDG budget tagging: Building public financial management capacity through natural language processing'
+titleShort: 'Automatic SDG budget tagging'
 description: 'Despite the wide spread use of impact evaluation techniques, data that links detailed budget lines to outcome indicators is surprisingly scant. Performing this mapping manually can be prohibitively expensive for many countries. The idea behind this paper was to test if natural language processing could provide a reliable tool for mapping budgets into indicators automatically.'
 pubDate: '2023'
 publicationLink: 'https://doi.org/10.1017/dap.2023.28'

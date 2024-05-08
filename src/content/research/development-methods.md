@@ -1,5 +1,6 @@
 ---
-title: 'Budgeting for SDGs'
+title: 'Budgeting for SDGs: Quantitative methods to assess the potential impacts of public expenditure'
+titleShort: 'Budgeting for SDGs'
 description: 'After working on various applications of our policy-priority framework, we took a step back to reflect on where it stood against alternative impact-evaluation approaches in the context of multi-dimensional development. This work presents a systematic analysis comparing our framework to other two popular approaches: regression analysis and machine learning.'
 pubDate: '2023'
 publicationLink: 'https://doi.org/10.1016/j.deveng.2023.100113'

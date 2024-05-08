@@ -1,6 +1,7 @@
 ---
-title: 'Aid effectiveness in sustainable development: a multidimensional approach'
-description: 'With the knowledge gathered from our previous work in policy prioritisation, we were equipped to tackle one of the most important issues in development economics: the impact of international aid. For more than 60 years, this was a controversial topic because evidence on the effectiveness of aid at the macro level had been mixed. Hence, this paper conciliates many discussions around this topic and provide the first worldwide estimates on aid impact that are specific to each country and indicator.'
+title: 'Aid effectiveness in sustainable development: A multidimensional approach'
+titleShort: 'Aid effectiveness in sustainable development'
+description: 'With the knowledge gathered from our previous work in policy prioritisation, we were equipped to tackle one of the most important issues in development economics: the impact of international aid. For more than 60 years, this was a controversial topic because evidence on the effectiveness of aid at the macro level had been mixed. Hence, this paper conciliates many discussions around this topic and provides the first worldwide estimates on aid impact that are specific to each country and indicator.'
 pubDate: '2023'
 publicationLink: 'https://doi.org/10.1016/j.worlddev.2023.106256'
 ---

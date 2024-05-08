@@ -15,6 +15,7 @@ const research = defineCollection({
   type: 'content',
   schema: z.object({
     title: z.string(),
+    titleShort: z.string(),
     description: z.string(),
     publicationLink: z.string().optional(),
     outlet: z.string().optional(),

@@ -1,5 +1,6 @@
 ---
-title: 'The climate security index'
+title: 'The climate security index - A methodological note'
+titleShort: 'The climate security index'
 description: 'In a collaboration with CGIAR, we developed a new framework to assess the climate security risk of a country. The aim is to bring together ideas from different fields to build a holistic framework.'
 pubDate: '2022'
 publicationLink: 'https://hdl.handle.net/10568/116266'

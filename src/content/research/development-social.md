@@ -1,5 +1,6 @@
 ---
-title: 'How do social capabilities shape a country’s comparative advantages?'
+title: "How do social capabilities shape a country's comparative advantages? Unpacking industries' relatednes"
+titleShort: "How do social capabilities shape a country's comparative advantages?"
 description: 'This work expands the notion of the product space to account for social capabilities as part of the development of nations.'
 pubDate: '2024'
 ---

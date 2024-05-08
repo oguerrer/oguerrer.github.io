@@ -1,5 +1,6 @@
 ---
 title: 'Endogenous labour flow networks'
+titleShort: 'Endogenous labour flow networks'
 description: 'Despite our success in demonstrating the importance of labour flow networks, I always thought that real policy relevance would come from accounting for worker-level behaviour and heterogeneity; something quite challenging with the plain formalism of random walks on graphs. In this work, we crack down this challenge by implementing an agent-computing model with household micro data and leisure-consumption behaviour. Furthermore, it is the first model that can generate empirical labour flow networks endogenously (instead of assuming them as exogenous). Real-world impact came shortly after completing this work, as departments in the UK government have adopted this toolkit.'
 pubDate: '2023'
 publicationLink: 'https://doi.org/10.48550/arXiv.2301.07979'

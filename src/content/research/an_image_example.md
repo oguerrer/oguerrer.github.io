@@ -1,5 +1,6 @@
 ---
 title: 'Another Post'
+titleShort: 'Another Post'
 description: 'Embark on a web development adventure with our inaugural post, diving deep into industry insights and emerging trends.'
 pubDate: 'Jul 08 2022'
 ---

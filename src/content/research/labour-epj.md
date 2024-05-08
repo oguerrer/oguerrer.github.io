@@ -1,5 +1,6 @@
 ---
 title: 'A network theory of inter-firm labor flows'
+titleShort: 'A network theory of inter-firm labor flows'
 description: 'Once we had evidence of the importance of labour flow networks, we wanted to give them a more formal mathematical treatment with standard tools from stochastic processes on networks. This paper develops a model that is analytically tractable and that allows to estimate a new highly granular measure: firm-specific unemployment.'
 pubDate: '2020'
 publicationLink: 'https://doi.org/10.1140/epjds/s13688-020-00251-w'

@@ -1,5 +1,6 @@
 ---
-title: 'Does expenditure in public governance guarantee less corruption?'
+title: 'Does expenditure in public governance guarantee less corruption? Non-linearities and complementarities of the rule of law'
+titleShort: 'Does expenditure in public governance guarantee less corruption?'
 description: 'During the early 21st century, public governance became a mainstream topic in development economics, especially in the study of corruption. Most evidence advocating to spend more on improving the rule of law comes from cross-country studies. Ironically, country-specific evidence on the effectiveness of such expenditure is poor. This paper addresses this paradox using our policy prioritisation model, and demonstrates the large challenges that least-developed nations face in finding the right policy mix.'
 pubDate: '2021'
 publicationLink: 'https://doi.org/10.1007/s10101-021-00252-z'

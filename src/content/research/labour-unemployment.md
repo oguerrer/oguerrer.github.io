@@ -1,5 +1,6 @@
 ---
-title: 'Understanding unemployment in the era of big data'
+title: 'Understanding unemployment in the era of big data: Policy informed by data-driven theory'
+titleShort: 'Understanding unemployment in the era of big data'
 description: 'So far I had established the presence of characteristic networked structures in labour flows and the inability of neoclassical economic models to account for them. Next, I wanted to find out if these structures had implications in important outcomes such as unemployment. This paper presents a simple model of workers flowing on labour flow networks and shows how the structure of the network and its correlation with job opportunities may exacerbate  unemployment in the presence of shocks.'
 pubDate: '2016'
 publicationLink: 'https://doi.org/10.1002/poi3.136'
