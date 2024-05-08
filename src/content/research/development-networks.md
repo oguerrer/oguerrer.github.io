@@ -1,7 +1,7 @@
 ---
 title: 'Estimating networks of sustainable development goals'
 description: 'As we dived in the field of sustainable development, we became aware of the central concepts of synergies and trade-offs, often represented as networks between indicators. To our surprise, the field seemed quite precarious in the use of adequate quantitative methods to estimate such networks. The purpose of this paper was to introduce the sustainable development community to a plethora of network estimation methods (from different disciplines) that are usable with existing indicator datasets.'
-pubDate: 'Jul 2022'
+pubDate: '2022'
 publicationLink: 'https://doi.org/10.1016/j.im.2020.103342'
 ---
 

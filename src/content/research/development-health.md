@@ -1,7 +1,7 @@
 ---
 title: 'Budgetary allocation and health for all'
 description: 'This is our first attempt to bring the policy priority inference framework to a domain-specific application. Here, we study the problem of reaching a well-being economy in England using a unique dataset with manually mapped data on budget lines and outcome indicators.'
-pubDate: 'Mar 08 2024'
+pubDate: '2024'
 publicationLink: 'http://dx.doi.org/10.2139/ssrn.4748673'
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'How do governments determine policy priorities?'
 description: 'After developing a mathematical model of labour flows on networks, we thought it would be possible to integrate this toolkit into the conventional equilibrium framework of neoclassical models. This paper achieve this to demonstrate how the hiring decisions of firms may induce exacerbated unemployment and bottlenecks in the economy if they are interconnected in a labour flow network with topological properties like the ones observed in the real world.'
-pubDate: 'Jul 08 2022'
+pubDate: '2022'
 publicationLink: 'https://doi.org/10.1016/j.jebo.2018.07.017'
 ---
 

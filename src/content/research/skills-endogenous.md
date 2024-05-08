@@ -1,7 +1,7 @@
 ---
 title: 'Estimating worker complementarity with an endogenous technology model'
 description: 'In economics, skill sorting is the process through which human capital finds its way to where it is demanded. Studies on this topic usually skip the sorting process and focus on an ideal equilibrium outcome. This paper develops a new theory of skills and how they endogenously shape the technology of firms. We formalise this theory in a computational model that allow us to estimate new measures of productivity, for example, what we call the complementarity wage premium.'
-pubDate: 'Mar 14 2024'
+pubDate: '2024'
 publicationLink: 'http://dx.doi.org/10.2139/ssrn.4759485 '
 ---
 

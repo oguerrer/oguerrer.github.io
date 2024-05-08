@@ -1,7 +1,7 @@
 ---
 title: 'The Resilience of Public Policies in Economic Development'
 description: 'Once we had developed a model of policy prioritisation, we were equiped to study a variety of topics through counterfactual analysis. Our first study looked at the problem of whether a set of goals remains feasible after an exogenous shock reduces the expenditure capability of the government. This work became very relevant as we entered the Covid-19 pandemic and governments around the world had to cut down expenses. It allowed us to develop the first formal metric of policy resilience.'
-pubDate: 'Oct 02 2018'
+pubDate: '2018'
 publicationLink: 'https://doi.org/10.1155/2018/9672849'
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'Perceived Adequacy of Policy Instruments Reveals Weak Targets in the Sustainable Development Goals'
 description: 'During our policy-oriented projects, we realised that most impact evaluation studies assumed that relevant policy instruments exist. From our experience of talking to hundreds of policymakers and analysing highly disaggregate data on government programmes, it was clear that this is an often untested assumption. In fact, a global picture of the existence or adequacy of policy instruments across policy issues dis no exist. Hence, we ran a worldwide expert survey and gathered more than 130,000 responses on the existence and adequacy of policy instruments in the Sustainable Development Goals, creating the first large-scale dataset in this topic.'
-pubDate: 'Mar 04 2024'
+pubDate: '2024'
 publicationLink: 'https://ssrn.com/abstract=4747288'
 ---
 

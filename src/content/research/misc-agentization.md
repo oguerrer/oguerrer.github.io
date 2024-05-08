@@ -1,7 +1,7 @@
 ---
 title: 'Using agentization for exploring firm and labor dynamics'
 description: 'This was our first attempt to understand the overlap between neoclassical economic models and agent-computing ones. In this particular study, we demonstrate how to generalised a well-known neoclassical model of firm dynamics to gradually turn it into an agent-computing model that is capable of generating a broader set of statistical regularities without the need of assumptions such as equilibrium.'
-pubDate: 'Jun 13 2011'
+pubDate: '2011'
 publicationLink: 'https://doi.org/10.1007/978-3-642-21108-9_12'
 ---
 

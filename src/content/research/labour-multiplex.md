@@ -1,7 +1,7 @@
 ---
 title: 'Diffusing workers in a multiplex world'
 description: 'A common question on our work on labour flow networks was whether certain types of workers would navigate specific types of networks, for example, as a function of their occupation. To address this, we developed a generalisation of the random walkers labour flow model to multiplex networks.'
-pubDate: 'Oct 21 2017'
+pubDate: '2017'
 publicationLink: 'http://dx.doi.org/10.2139/ssrn.3056730 '
 ---
 

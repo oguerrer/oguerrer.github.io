@@ -1,7 +1,7 @@
 ---
 title: 'Methodological note for the climate and security index'
 description: 'This is the formal presentation of the climate security index framework. We bring together ideas and methods from conflict analysis, complex systems, signal processing, and public governance to build a novel method.'
-pubDate: 'Oct 2023'
+pubDate: '2023'
 publicationLink: 'https://hdl.handle.net/10568/116266'
 ---
 

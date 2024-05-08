@@ -1,7 +1,7 @@
 ---
 title: 'Policy priority inference'
 description: 'Shortly after our first publications on policy prioritisation, we were approached by the UNDP as they saw potential in our model to address challenges related to the Sustainable Development Goals. This was our first attempt to generalise our model (to account for conflicting priorities) and make it usable with most existing datasets.'
-pubDate: 'Dec 11 2020'
+pubDate: '2020'
 publicationLink: 'http://dx.doi.org/10.1017/dap.2020.18.'
 ossLink: 'https://github.com/oguerrer/PPI4SD'
 ---

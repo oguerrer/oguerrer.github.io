@@ -1,7 +1,7 @@
 ---
 title: 'How does government expenditure impact sustainable development?'
 description: 'Another concept that is important in development economics and, yet, lacks a quantitative treatment is that of a structural bottleneck. Here we propose a method to identify policy issues that have potential structural bottlenecks and present a worldwide diagnostic of the obstacles that they represent in terms of the Sustainable Development Goals.'
-pubDate: 'Feb 08 2022'
+pubDate: '2022'
 publicationLink: 'https://doi.org/10.1007/s11625-022-01095-1'
 ---
 

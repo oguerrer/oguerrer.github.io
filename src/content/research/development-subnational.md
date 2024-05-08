@@ -1,7 +1,7 @@
 ---
 title: 'Subnational sustainable development'
 description: 'In our policy-prioritisation work with policymakers, we were frequently asked if our method could be applied to subnational entities, as a substantial part of development policies are implemented there. This paper demonstrates how to deploy our methodology for subnational analysis. In particular, we provide valuable insights on how to best distribute federal transfers across the 32 states of Mexico.'
-pubDate: 'Oct 2022'
+pubDate: '2022'
 publicationLink: 'https://doi.org/10.1016/j.seps.2021.101155'
 ---
 

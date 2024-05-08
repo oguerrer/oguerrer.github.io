@@ -1,7 +1,7 @@
 ---
 title: 'Decentralized markets and the emergence of housing wealth inequality'
 description: 'Discussions on the role of housing in inequality have become prevalent (at least in the UK). Housing wealth inequality, in particular, seems largely unexplained by traditional factors such as income and education. Here, I build a high-resolution model that emerges housing wealth inequality endogenously and allows estimating the effect of unconventional institutional factors such as the market.'
-pubDate: 'Jul 08 2022'
+pubDate: '2022'
 publicationLink: 'https://doi.org/10.1016/j.compenvurbsys.2020.101541'
 ossLink: 'https://github.com/oguerrer/HWI'
 ---

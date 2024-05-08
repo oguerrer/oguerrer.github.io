@@ -1,7 +1,7 @@
 ---
 title: 'Budgeting for SDGs'
 description: 'After working on various applications of our policy-priority framework, we took a step back to reflect on where it stood against alternative impact-evaluation approaches in the context of multi-dimensional development. This work presents a systematic analysis comparing our framework to other two popular approaches: regression analysis and machine learning.'
-pubDate: 'Nov 2023'
+pubDate: '2023'
 publicationLink: 'https://doi.org/10.1016/j.deveng.2023.100113'
 ---
 
