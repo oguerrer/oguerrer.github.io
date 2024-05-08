@@ -1,7 +1,7 @@
 ---
 title: 'Technology and production networks'
-blurb: 'Methods to quantify the nature of technology.'
-description: 'Long'
+description: 'Methods to quantify the nature of technology.'
+explanation: 'Long'
 cover: '/images/research_tech.webp'
 research:
 - tech-synergy

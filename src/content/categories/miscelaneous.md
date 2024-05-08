@@ -1,7 +1,7 @@
 ---
 title: 'Miscellaneous projects'
-blurb: 'Various CSS projects.'
-description: 'long'
+description: 'Various CSS projects.'
+explanation: 'long'
 cover: '/images/research_misc.webp'
 research:
 - misc-agentization

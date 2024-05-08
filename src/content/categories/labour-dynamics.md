@@ -1,7 +1,7 @@
 ---
 title: 'Labour dynamics'
-blurb: 'Studies of fine grained mobility patterns of workers.'
-description: 'long'
+description: 'Studies of fine grained mobility patterns of workers.'
+explanation: 'long'
 cover: '/images/research_labour.webp'
 research:
 - labour-complexity
