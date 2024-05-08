@@ -15,7 +15,7 @@ export const marketingConfig: MarketingConfig = {
       href: "/dissemination",
     },
     {
-      title: "Video",
+      title: "Videos",
       href: "/video",
     },
     {
