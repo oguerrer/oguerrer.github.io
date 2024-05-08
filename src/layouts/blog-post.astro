@@ -35,7 +35,7 @@ const { title, description, pubDate, updatedDate, publicationLink, category, oss
           class="font-medium text-muted-foreground"
           transition:name={"date-" + slug}
         >
-          Published on: {formatDate(pubDate)}
+          Published on: {pubDate}
           {
             updatedDate && (
               <span>- Last updated on {formatDate(updatedDate)}</span>
