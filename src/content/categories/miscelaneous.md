@@ -1,6 +1,6 @@
 ---
 title: 'Miscellaneous projects'
-description-short: 'Various CSS projects.'
+blurb: 'Various CSS projects.'
 description: 'long'
 cover: '/images/research_misc.webp'
 research:

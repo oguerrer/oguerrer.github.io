@@ -1,6 +1,6 @@
 ---
 title: 'Labour dynamics'
-description-short: 'Studies of fine grained mobility patterns of workers.'
+blurb: 'Studies of fine grained mobility patterns of workers.'
 description: 'long'
 cover: '/images/research_labour.webp'
 research:

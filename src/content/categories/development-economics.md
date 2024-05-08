@@ -1,6 +1,6 @@
 ---
 title: 'Economic and sustainable development'
-description-short: 'Work related to policy priority inference.'
+blurb: 'Work related to policy priority inference.'
 description: 'long'
 cover: '/images/research_ppi.webp'
 research:
