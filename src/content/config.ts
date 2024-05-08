@@ -24,7 +24,10 @@ const research = defineCollection({
     pubDate: z
       .string()
       .or(z.date())
-      .transform((val) => new Date(val)),
+      .transform((val) => {
+    const date = new Date(val);
+    return date.getFullYear();
+  }),
     updatedDate: z
       .string()
       .optional()
