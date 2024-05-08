@@ -20,15 +20,8 @@ const research = defineCollection({
     outlet: z.string().optional(),
     ossLink: z.string().optional(),
     category: z.string().optional(),
-    // Transform string to Date object
-    pubDate: z
-      .string()
-      .or(z.date())
-      .transform((val) => new Date(val)),
-    updatedDate: z
-      .string()
-      .optional()
-      .transform((str) => (str ? new Date(str) : undefined)),
+    pubDate: z.string(),
+
   }),
 });
 
