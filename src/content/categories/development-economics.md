@@ -1,6 +1,7 @@
 ---
 title: 'Economic and sustainable development'
-description: 'Work related to policy priority inference.'
+description-short: 'Work related to policy priority inference.'
+description: 'long'
 cover: '/images/research_ppi.webp'
 research:
 - development-jebo

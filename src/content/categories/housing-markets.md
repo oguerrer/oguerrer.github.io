@@ -1,6 +1,7 @@
 ---
 title: 'Housing markets and inequality'
-description: 'High-resolution models of housing markets dynamics.'
+description-short: 'High-resolution models of housing markets dynamics.'
+description: 'long'
 cover: '/images/research_housing.webp'
 research:
 - housing-inequality
