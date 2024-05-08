@@ -9,7 +9,6 @@ import CategoryCard from "../../../components/cards/category-card.astro";
 import { getCollection } from "astro:content";
 import { getEntries } from "astro:content";
 import type { CollectionEntry } from "astro:content";
-import Link from "@/components/link.astro";
 
 export async function getStaticPaths() {
   const categories = await getCollection("categories");
