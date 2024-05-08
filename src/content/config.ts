@@ -17,6 +17,7 @@ const research = defineCollection({
     title: z.string(),
     description: z.string(),
     publicationLink: z.string().optional(),
+    outlet: z.string().optional(),
     ossLink: z.string().optional(),
     category: z.string().optional(),
     // Transform string to Date object
