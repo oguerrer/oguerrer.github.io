@@ -15,8 +15,6 @@ const { title, description, bodyClass } = Astro.props;
 <!doctype html>
 <html lang="en">
   <head>
-    <BaseHead title={title} description={description} />
-  </head>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-L9GD6DMN0X"></script>
 <script>
@@ -26,6 +24,9 @@ const { title, description, bodyClass } = Astro.props;
 
   gtag('config', 'G-L9GD6DMN0X');
 </script>
+    <BaseHead title={title} description={description} />
+  </head>
+
   <body class={cn("flex flex-col min-h-screen", bodyClass)}>
     <slot />
     <TailwindIndicator />
