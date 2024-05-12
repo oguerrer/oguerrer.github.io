@@ -39,6 +39,7 @@
     "date-fns": "^3.3.1",
     "framer-motion": "^11.0.6",
     "lucide-react": "^0.338.0",
+    "marked": "^12.0.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "sanity": "^3.30.1",

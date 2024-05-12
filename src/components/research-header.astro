@@ -1,8 +1,10 @@
 ---
+import { marked } from 'marked';
 const { title, description } = Astro.props;
+const content = marked.parse(description);
 ---
 
 <h1 class="font-heading text-2xl lg:text-4xl">{title}</h1>
-{description && <p>{description}</p>}
+{content && <section class="research-descriptio prose max-w-full" set:html={content} />}
 
 <hr class="mt-4 mb-4 md:mb-12" />
