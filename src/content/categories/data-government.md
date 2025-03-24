@@ -5,4 +5,5 @@ explanation: 'Impact evaluation is one of the most widespread practices in quant
 cover: '/images/research_data4exp.webp'
 research:
 - budget-tagging
+- budget-llm
 ---
