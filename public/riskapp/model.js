@@ -1,1 +1,2 @@
-// Compiled Java model would be injected here
+// Placeholder for compiled model
+console.log('Model loaded');

@@ -1,12 +1,3 @@
-
-// Dummy simulation loop
-let interval;
-function startSim() {
-  interval = setInterval(() => {
-    console.log("Simulating step...");
-    // Update canvas and chart here in real build
-  }, 1000);
-}
-function stopSim() {
-  clearInterval(interval);
-}
+// Placeholder for app logic
+function startSimulation() { console.log('Starting'); }
+function stopSimulation() { console.log('Stopping'); }
