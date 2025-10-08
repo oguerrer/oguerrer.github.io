@@ -3,7 +3,7 @@ import type { SiteConfig } from "@/types";
 export const siteConfig: SiteConfig = {
   name: "Omar A. Guerrero",
   description:
-    "Head of Computational Social Science Research - The Alan Turing Institute",
+    "Economist and Computational Social Scientist",
   url: "https://astro-nomy.vercel.app",
   ogImage: "https://astro-nomy.vercel.app/og.jpg",
   links: {
